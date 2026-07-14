@@ -1,0 +1,2002 @@
+{
+ "1": {
+  "cost": 286,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task001.onnx",
+  "points": 19.344008189180148
+ },
+ "2": {
+  "cost": 14285,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task002.onnx",
+  "points": 15.433034685335127
+ },
+ "3": {
+  "cost": 260,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task003.onnx",
+  "points": 19.439318368984473
+ },
+ "4": {
+  "cost": 4866,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task004.onnx",
+  "points": 16.509972476656532
+ },
+ "5": {
+  "cost": 6645,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/agi-neurogolf-chatgptloop/task005.onnx",
+  "points": 16.198380028852654
+ },
+ "6": {
+  "cost": 153,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task006.onnx",
+  "points": 19.969562078607566
+ },
+ "7": {
+  "cost": 127,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task007.onnx",
+  "points": 20.15581291354141
+ },
+ "8": {
+  "cost": 2743,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task008.onnx",
+  "points": 17.083192509062396
+ },
+ "9": {
+  "cost": 6694,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task009.onnx",
+  "points": 16.191033118228727
+ },
+ "10": {
+  "cost": 1002,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task010.onnx",
+  "points": 18.09024671835519
+ },
+ "11": {
+  "cost": 318,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task011.onnx",
+  "points": 19.23794861721982
+ },
+ "12": {
+  "cost": 2251,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task012.onnx",
+  "points": 17.28087015909327
+ },
+ "13": {
+  "cost": 1424,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task013.onnx",
+  "points": 17.738774908028077
+ },
+ "14": {
+  "cost": 4097,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task014.onnx",
+  "points": 16.681989722453128
+ },
+ "15": {
+  "cost": 900,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task015.onnx",
+  "points": 18.197605236675688
+ },
+ "16": {
+  "cost": 10,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task016.onnx",
+  "points": 22.697414907005953
+ },
+ "17": {
+  "cost": 6453,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task017.onnx",
+  "points": 16.22769958206416
+ },
+ "18": {
+  "cost": 24360,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task018.onnx",
+  "points": 14.899302278176167
+ },
+ "19": {
+  "cost": 2503,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task019.onnx",
+  "points": 17.174754708568226
+ },
+ "20": {
+  "cost": 1256,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task020.onnx",
+  "points": 17.864312652971854
+ },
+ "21": {
+  "cost": 324,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task021.onnx",
+  "points": 19.21925648420767
+ },
+ "22": {
+  "cost": 900,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task022.onnx",
+  "points": 18.197605236675688
+ },
+ "23": {
+  "cost": 8222,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task023.onnx",
+  "points": 15.985431232542176
+ },
+ "24": {
+  "cost": 110,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task024.onnx",
+  "points": 20.299519634207584
+ },
+ "25": {
+  "cost": 10236,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task025.onnx",
+  "points": 15.76633380272032
+ },
+ "26": {
+  "cost": 200,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task026.onnx",
+  "points": 19.701682633451963
+ },
+ "27": {
+  "cost": 1308,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task027.onnx",
+  "points": 17.823745467982857
+ },
+ "28": {
+  "cost": 168,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task028.onnx",
+  "points": 19.876036020596743
+ },
+ "29": {
+  "cost": 5288,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task029.onnx",
+  "points": 16.426804618468477
+ },
+ "30": {
+  "cost": 1803,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task030.onnx",
+  "points": 17.50279277679668
+ },
+ "31": {
+  "cost": 391,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task031.onnx",
+  "points": 19.031292440014635
+ },
+ "32": {
+  "cost": 910,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task032.onnx",
+  "points": 18.186555400489105
+ },
+ "33": {
+  "cost": 1639,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task033.onnx",
+  "points": 17.59815842125617
+ },
+ "34": {
+  "cost": 2261,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task034.onnx",
+  "points": 17.27643752772203
+ },
+ "35": {
+  "cost": 1905,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task035.onnx",
+  "points": 17.4477627124392
+ },
+ "36": {
+  "cost": 1589,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task036.onnx",
+  "points": 17.629139833463285
+ },
+ "37": {
+  "cost": 2465,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task037.onnx",
+  "points": 17.19005291352321
+ },
+ "38": {
+  "cost": 213,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task038.onnx",
+  "points": 19.638707834290575
+ },
+ "39": {
+  "cost": 453,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task039.onnx",
+  "points": 18.884107874516964
+ },
+ "40": {
+  "cost": 190,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task040.onnx",
+  "points": 19.752975927839515
+ },
+ "41": {
+  "cost": 1787,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task041.onnx",
+  "points": 17.511706484840573
+ },
+ "42": {
+  "cost": 3110,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task042.onnx",
+  "points": 16.95762199482672
+ },
+ "43": {
+  "cost": 793,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task043.onnx",
+  "points": 18.324176778365153
+ },
+ "44": {
+  "cost": 3212,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task044.onnx",
+  "points": 16.925350924933348
+ },
+ "45": {
+  "cost": 1673,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task045.onnx",
+  "points": 17.577626299013176
+ },
+ "46": {
+  "cost": 2085,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task046.onnx",
+  "points": 17.3574758657671
+ },
+ "47": {
+  "cost": 862,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task047.onnx",
+  "points": 18.240744729336306
+ },
+ "48": {
+  "cost": 803,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task048.onnx",
+  "points": 18.31164528605324
+ },
+ "49": {
+  "cost": 345,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task049.onnx",
+  "points": 19.15645558296864
+ },
+ "50": {
+  "cost": 3849,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task050.onnx",
+  "points": 16.744431346716254
+ },
+ "51": {
+  "cost": 1744,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task051.onnx",
+  "points": 17.536063395531073
+ },
+ "52": {
+  "cost": 194,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task052.onnx",
+  "points": 19.73214184093667
+ },
+ "53": {
+  "cost": 30,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task053.onnx",
+  "points": 21.598802618337846
+ },
+ "54": {
+  "cost": 25144,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task054.onnx",
+  "points": 14.867625421522597
+ },
+ "55": {
+  "cost": 1856,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task055.onnx",
+  "points": 17.473821086653853
+ },
+ "56": {
+  "cost": 34,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task056.onnx",
+  "points": 21.473639475383838
+ },
+ "57": {
+  "cost": 668,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task057.onnx",
+  "points": 18.495711826463356
+ },
+ "58": {
+  "cost": 1033,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task058.onnx",
+  "points": 18.05977753088036
+ },
+ "59": {
+  "cost": 547,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task059.onnx",
+  "points": 18.69555119757802
+ },
+ "60": {
+  "cost": 1010,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task060.onnx",
+  "points": 18.082294390164694
+ },
+ "61": {
+  "cost": 1668,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task061.onnx",
+  "points": 17.58061941708131
+ },
+ "62": {
+  "cost": 2524,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task062.onnx",
+  "points": 17.166399776338896
+ },
+ "63": {
+  "cost": 1706,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task063.onnx",
+  "points": 17.558093271948376
+ },
+ "64": {
+  "cost": 10445,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task064.onnx",
+  "points": 15.746121326009334
+ },
+ "65": {
+  "cost": 638,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task065.onnx",
+  "points": 18.54166171665521
+ },
+ "66": {
+  "cost": 10643,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task066.onnx",
+  "points": 15.727342321958956
+ },
+ "67": {
+  "cost": 0,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task067.onnx",
+  "points": 25.0
+ },
+ "68": {
+  "cost": 623,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task068.onnx",
+  "points": 18.565453481212547
+ },
+ "69": {
+  "cost": 2949,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task069.onnx",
+  "points": 17.010778591184724
+ },
+ "70": {
+  "cost": 1682,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task070.onnx",
+  "points": 17.572261159467107
+ },
+ "71": {
+  "cost": 2663,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task071.onnx",
+  "points": 17.11279141418607
+ },
+ "72": {
+  "cost": 421,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task072.onnx",
+  "points": 18.957367166317617
+ },
+ "73": {
+  "cost": 40,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task073.onnx",
+  "points": 21.311120545886062
+ },
+ "74": {
+  "cost": 8394,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task074.onnx",
+  "points": 15.964727556106464
+ },
+ "75": {
+  "cost": 1487,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task075.onnx",
+  "points": 17.695484053539843
+ },
+ "76": {
+  "cost": 12825,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task076.onnx",
+  "points": 15.54084832996103
+ },
+ "77": {
+  "cost": 7657,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task077.onnx",
+  "points": 16.056624458886876
+ },
+ "78": {
+  "cost": 1293,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task078.onnx",
+  "points": 17.835279621228143
+ },
+ "79": {
+  "cost": 3114,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task079.onnx",
+  "points": 16.956336647606058
+ },
+ "80": {
+  "cost": 9262,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task080.onnx",
+  "points": 15.866324712959303
+ },
+ "81": {
+  "cost": 464,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task081.onnx",
+  "points": 18.860115447773744
+ },
+ "82": {
+  "cost": 190,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task082.onnx",
+  "points": 19.752975927839515
+ },
+ "83": {
+  "cost": 210,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task083.onnx",
+  "points": 19.65289246928253
+ },
+ "84": {
+  "cost": 2038,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task084.onnx",
+  "points": 17.38027578621733
+ },
+ "85": {
+  "cost": 2519,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task085.onnx",
+  "points": 17.16838272364739
+ },
+ "86": {
+  "cost": 3028,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task086.onnx",
+  "points": 16.98434238544266
+ },
+ "87": {
+  "cost": 5,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task087.onnx",
+  "points": 23.3905620875659
+ },
+ "88": {
+  "cost": 1872,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task088.onnx",
+  "points": 17.465237342962464
+ },
+ "89": {
+  "cost": 6739,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task089.onnx",
+  "points": 16.184333175053784
+ },
+ "90": {
+  "cost": 3053,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task090.onnx",
+  "points": 16.976120007265123
+ },
+ "91": {
+  "cost": 2753,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task091.onnx",
+  "points": 17.079553494857393
+ },
+ "92": {
+  "cost": 6553,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task092.onnx",
+  "points": 16.212321760960503
+ },
+ "93": {
+  "cost": 3332,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task093.onnx",
+  "points": 16.888671996713267
+ },
+ "94": {
+  "cost": 2677,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task094.onnx",
+  "points": 17.10754795647965
+ },
+ "95": {
+  "cost": 345,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task095.onnx",
+  "points": 19.15645558296864
+ },
+ "96": {
+  "cost": 7558,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/compact-onnx-artifact-starter-ii/task096.onnx",
+  "points": 16.069638116090566
+ },
+ "97": {
+  "cost": 910,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task097.onnx",
+  "points": 18.186555400489105
+ },
+ "98": {
+  "cost": 900,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task098.onnx",
+  "points": 18.197605236675688
+ },
+ "99": {
+  "cost": 1899,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task099.onnx",
+  "points": 17.450917289187714
+ },
+ "100": {
+  "cost": 359,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task100.onnx",
+  "points": 19.116677611511722
+ },
+ "101": {
+  "cost": 12973,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/neurogolf-merged88-workbench/task101.onnx",
+  "points": 15.529374446428987
+ },
+ "102": {
+  "cost": 2527,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task102.onnx",
+  "points": 17.165211892611808
+ },
+ "103": {
+  "cost": 60,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task103.onnx",
+  "points": 20.9056554377779
+ },
+ "104": {
+  "cost": 238,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task104.onnx",
+  "points": 19.527729326328526
+ },
+ "105": {
+  "cost": 2849,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/7268-neurogolf-best-score/task105.onnx",
+  "points": 17.045276665502094
+ },
+ "106": {
+  "cost": 626,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task106.onnx",
+  "points": 18.560649628899903
+ },
+ "107": {
+  "cost": 3576,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task107.onnx",
+  "points": 16.817999863706596
+ },
+ "108": {
+  "cost": 300,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task108.onnx",
+  "points": 19.2962175253438
+ },
+ "109": {
+  "cost": 1645,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task109.onnx",
+  "points": 17.594504336800526
+ },
+ "110": {
+  "cost": 10327,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task110.onnx",
+  "points": 15.757482896328597
+ },
+ "111": {
+  "cost": 309,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task111.onnx",
+  "points": 19.266658723102253
+ },
+ "112": {
+  "cost": 1768,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task112.onnx",
+  "points": 17.52239575680241
+ },
+ "113": {
+  "cost": 30,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task113.onnx",
+  "points": 21.598802618337846
+ },
+ "114": {
+  "cost": 900,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task114.onnx",
+  "points": 18.197605236675688
+ },
+ "115": {
+  "cost": 1014,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task115.onnx",
+  "points": 18.078341815848873
+ },
+ "116": {
+  "cost": 30,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task116.onnx",
+  "points": 21.598802618337846
+ },
+ "117": {
+  "cost": 3795,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task117.onnx",
+  "points": 16.758560310170267
+ },
+ "118": {
+  "cost": 12282,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task118.onnx",
+  "points": 15.584109945110656
+ },
+ "119": {
+  "cost": 1363,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task119.onnx",
+  "points": 17.782556568303466
+ },
+ "120": {
+  "cost": 910,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task120.onnx",
+  "points": 18.186555400489105
+ },
+ "121": {
+  "cost": 326,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task121.onnx",
+  "points": 19.213102618633293
+ },
+ "122": {
+  "cost": 810,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task122.onnx",
+  "points": 18.302965752333517
+ },
+ "123": {
+  "cost": 1342,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task123.onnx",
+  "points": 17.798083682468373
+ },
+ "124": {
+  "cost": 1953,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task124.onnx",
+  "points": 17.42287806912332
+ },
+ "125": {
+  "cost": 3463,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task125.onnx",
+  "points": 16.850109455597575
+ },
+ "126": {
+  "cost": 605,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task126.onnx",
+  "points": 18.59477154196916
+ },
+ "127": {
+  "cost": 396,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task127.onnx",
+  "points": 19.01858578874552
+ },
+ "128": {
+  "cost": 136,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task128.onnx",
+  "points": 20.087345114263947
+ },
+ "129": {
+  "cost": 80,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task129.onnx",
+  "points": 20.61797336532612
+ },
+ "130": {
+  "cost": 30,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task130.onnx",
+  "points": 21.598802618337846
+ },
+ "131": {
+  "cost": 3874,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task131.onnx",
+  "points": 16.73795715603306
+ },
+ "132": {
+  "cost": 3637,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task132.onnx",
+  "points": 16.80108555501301
+ },
+ "133": {
+  "cost": 21274,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task133.onnx",
+  "points": 15.03475905118839
+ },
+ "134": {
+  "cost": 1529,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task134.onnx",
+  "points": 17.667630794070938
+ },
+ "135": {
+  "cost": 200,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task135.onnx",
+  "points": 19.701682633451963
+ },
+ "136": {
+  "cost": 1194,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task136.onnx",
+  "points": 17.91493570604745
+ },
+ "137": {
+  "cost": 3389,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task137.onnx",
+  "points": 16.871709828392948
+ },
+ "138": {
+  "cost": 12042,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task138.onnx",
+  "points": 15.603844181975607
+ },
+ "139": {
+  "cost": 904,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task139.onnx",
+  "points": 18.193170639607825
+ },
+ "140": {
+  "cost": 5,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task140.onnx",
+  "points": 23.3905620875659
+ },
+ "141": {
+  "cost": 1383,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task141.onnx",
+  "points": 17.76798966833524
+ },
+ "142": {
+  "cost": 90,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task142.onnx",
+  "points": 20.500190329669735
+ },
+ "143": {
+  "cost": 837,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task143.onnx",
+  "points": 18.270175929510525
+ },
+ "144": {
+  "cost": 104,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task144.onnx",
+  "points": 20.35560910085863
+ },
+ "145": {
+  "cost": 12855,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task145.onnx",
+  "points": 15.53851188030001
+ },
+ "146": {
+  "cost": 265,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task146.onnx",
+  "points": 19.42027017401378
+ },
+ "147": {
+  "cost": 532,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task147.onnx",
+  "points": 18.723356510658355
+ },
+ "148": {
+  "cost": 4887,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task148.onnx",
+  "points": 16.505666102729847
+ },
+ "149": {
+  "cost": 136,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task149.onnx",
+  "points": 20.087345114263947
+ },
+ "150": {
+  "cost": 138,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task150.onnx",
+  "points": 20.072746314842796
+ },
+ "151": {
+  "cost": 900,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task151.onnx",
+  "points": 18.197605236675688
+ },
+ "152": {
+  "cost": 90,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task152.onnx",
+  "points": 20.500190329669735
+ },
+ "153": {
+  "cost": 793,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task153.onnx",
+  "points": 18.324176778365153
+ },
+ "154": {
+  "cost": 2679,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task154.onnx",
+  "points": 17.10680113045539
+ },
+ "155": {
+  "cost": 138,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task155.onnx",
+  "points": 20.072746314842796
+ },
+ "156": {
+  "cost": 1562,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task156.onnx",
+  "points": 17.64627766960037
+ },
+ "157": {
+  "cost": 6819,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task157.onnx",
+  "points": 16.172531887479344
+ },
+ "158": {
+  "cost": 26486,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task158.onnx",
+  "points": 14.81562842951309
+ },
+ "159": {
+  "cost": 1568,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task159.onnx",
+  "points": 17.642443799089648
+ },
+ "160": {
+  "cost": 1334,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task160.onnx",
+  "points": 17.804062773524432
+ },
+ "161": {
+  "cost": 1808,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task161.onnx",
+  "points": 17.500023459047878
+ },
+ "162": {
+  "cost": 3500,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task162.onnx",
+  "points": 16.839481752522495
+ },
+ "163": {
+  "cost": 1791,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task163.onnx",
+  "points": 17.509470597939288
+ },
+ "164": {
+  "cost": 30,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task164.onnx",
+  "points": 21.598802618337846
+ },
+ "165": {
+  "cost": 4532,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task165.onnx",
+  "points": 16.5810813778521
+ },
+ "166": {
+  "cost": 24,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task166.onnx",
+  "points": 21.821946169652055
+ },
+ "167": {
+  "cost": 146,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task167.onnx",
+  "points": 20.016393378291664
+ },
+ "168": {
+  "cost": 2237,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task168.onnx",
+  "points": 17.28710903850987
+ },
+ "169": {
+  "cost": 1670,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task169.onnx",
+  "points": 17.5794210945892
+ },
+ "170": {
+  "cost": 2125,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task170.onnx",
+  "points": 17.338472918641482
+ },
+ "171": {
+  "cost": 435,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task171.onnx",
+  "points": 18.924653968911315
+ },
+ "172": {
+  "cost": 30,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task172.onnx",
+  "points": 21.598802618337846
+ },
+ "173": {
+  "cost": 13383,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task173.onnx",
+  "points": 15.498259476203625
+ },
+ "174": {
+  "cost": 4027,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task174.onnx",
+  "points": 16.699223039148546
+ },
+ "175": {
+  "cost": 1255,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task175.onnx",
+  "points": 17.865109148434115
+ },
+ "176": {
+  "cost": 210,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task176.onnx",
+  "points": 19.65289246928253
+ },
+ "177": {
+  "cost": 3249,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task177.onnx",
+  "points": 16.9138974643309
+ },
+ "178": {
+  "cost": 762,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task178.onnx",
+  "points": 18.364053444313353
+ },
+ "179": {
+  "cost": 0,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task179.onnx",
+  "points": 25.0
+ },
+ "180": {
+  "cost": 210,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task180.onnx",
+  "points": 19.65289246928253
+ },
+ "181": {
+  "cost": 368,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task181.onnx",
+  "points": 19.09191706183107
+ },
+ "182": {
+  "cost": 6095,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task182.onnx",
+  "points": 16.28477595808463
+ },
+ "183": {
+  "cost": 1024,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task183.onnx",
+  "points": 18.068528194400546
+ },
+ "184": {
+  "cost": 2039,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task184.onnx",
+  "points": 17.379785229425543
+ },
+ "185": {
+  "cost": 1955,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task185.onnx",
+  "points": 17.421854527580535
+ },
+ "186": {
+  "cost": 103,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task186.onnx",
+  "points": 20.365271011770364
+ },
+ "187": {
+  "cost": 15790,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task187.onnx",
+  "points": 15.332867892750313
+ },
+ "188": {
+  "cost": 764,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task188.onnx",
+  "points": 18.361432210833478
+ },
+ "189": {
+  "cost": 892,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task189.onnx",
+  "points": 18.206533867419992
+ },
+ "190": {
+  "cost": 2427,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task190.onnx",
+  "points": 17.2055887942734
+ },
+ "191": {
+  "cost": 11082,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task191.onnx",
+  "points": 15.686922550572705
+ },
+ "192": {
+  "cost": 5346,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task192.onnx",
+  "points": 16.415896103301137
+ },
+ "193": {
+  "cost": 910,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task193.onnx",
+  "points": 18.186555400489105
+ },
+ "194": {
+  "cost": 949,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task194.onnx",
+  "points": 18.14459120139007
+ },
+ "195": {
+  "cost": 921,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task195.onnx",
+  "points": 18.174539963744692
+ },
+ "196": {
+  "cost": 4536,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task196.onnx",
+  "points": 16.580199154592414
+ },
+ "197": {
+  "cost": 1141,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task197.onnx",
+  "points": 17.960339650137925
+ },
+ "198": {
+  "cost": 11410,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task198.onnx",
+  "points": 15.657754557143878
+ },
+ "199": {
+  "cost": 1823,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task199.onnx",
+  "points": 17.491761225321337
+ },
+ "200": {
+  "cost": 623,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task200.onnx",
+  "points": 18.565453481212547
+ },
+ "201": {
+  "cost": 3046,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task201.onnx",
+  "points": 16.978415466544895
+ },
+ "202": {
+  "cost": 4481,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task202.onnx",
+  "points": 16.592398485213856
+ },
+ "203": {
+  "cost": 355,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task203.onnx",
+  "points": 19.127882210524582
+ },
+ "204": {
+  "cost": 10232,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task204.onnx",
+  "points": 15.76672465674132
+ },
+ "205": {
+  "cost": 4891,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task205.onnx",
+  "points": 16.504847939460642
+ },
+ "206": {
+  "cost": 1783,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task206.onnx",
+  "points": 17.51394738213686
+ },
+ "207": {
+  "cost": 236,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task207.onnx",
+  "points": 19.53616819497439
+ },
+ "208": {
+  "cost": 4181,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task208.onnx",
+  "points": 16.661694268643437
+ },
+ "209": {
+  "cost": 7775,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task209.onnx",
+  "points": 16.041331262952568
+ },
+ "210": {
+  "cost": 30,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task210.onnx",
+  "points": 21.598802618337846
+ },
+ "211": {
+  "cost": 270,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task211.onnx",
+  "points": 19.401578041001624
+ },
+ "212": {
+  "cost": 2249,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task212.onnx",
+  "points": 17.281759048040684
+ },
+ "213": {
+  "cost": 1850,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task213.onnx",
+  "points": 17.477059081927628
+ },
+ "214": {
+  "cost": 525,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task214.onnx",
+  "points": 18.736601737408378
+ },
+ "215": {
+  "cost": 629,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task215.onnx",
+  "points": 18.55586874329956
+ },
+ "216": {
+  "cost": 8415,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task216.onnx",
+  "points": 15.962228893375094
+ },
+ "217": {
+  "cost": 1470,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task217.onnx",
+  "points": 17.70698232022722
+ },
+ "218": {
+  "cost": 649,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task218.onnx",
+  "points": 18.52456728329591
+ },
+ "219": {
+  "cost": 8715,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task219.onnx",
+  "points": 15.92719904204588
+ },
+ "220": {
+  "cost": 900,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task220.onnx",
+  "points": 18.197605236675688
+ },
+ "221": {
+  "cost": 805,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task221.onnx",
+  "points": 18.309157722581435
+ },
+ "222": {
+  "cost": 2733,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task222.onnx",
+  "points": 17.08684481407193
+ },
+ "223": {
+  "cost": 5,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task223.onnx",
+  "points": 23.3905620875659
+ },
+ "224": {
+  "cost": 1886,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task224.onnx",
+  "points": 17.457786536806598
+ },
+ "225": {
+  "cost": 1031,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task225.onnx",
+  "points": 18.06171551598304
+ },
+ "226": {
+  "cost": 1534,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task226.onnx",
+  "points": 17.664366018072798
+ },
+ "227": {
+  "cost": 100,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task227.onnx",
+  "points": 20.394829814011906
+ },
+ "228": {
+  "cost": 962,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task228.onnx",
+  "points": 18.130985549334294
+ },
+ "229": {
+  "cost": 200,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task229.onnx",
+  "points": 19.701682633451963
+ },
+ "230": {
+  "cost": 900,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task230.onnx",
+  "points": 18.197605236675688
+ },
+ "231": {
+  "cost": 219,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task231.onnx",
+  "points": 19.6109282701835
+ },
+ "232": {
+  "cost": 1410,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task232.onnx",
+  "points": 17.748655016627787
+ },
+ "233": {
+  "cost": 31975,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/agi-neurogolf-chatgptloop/task233.onnx",
+  "points": 14.627290373552956
+ },
+ "234": {
+  "cost": 3498,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task234.onnx",
+  "points": 16.840053344421452
+ },
+ "235": {
+  "cost": 129,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task235.onnx",
+  "points": 20.140187595638327
+ },
+ "236": {
+  "cost": 126,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task236.onnx",
+  "points": 20.163718093048523
+ },
+ "237": {
+  "cost": 1836,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task237.onnx",
+  "points": 17.484655428819565
+ },
+ "238": {
+  "cost": 1935,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task238.onnx",
+  "points": 17.432137394536117
+ },
+ "239": {
+  "cost": 947,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task239.onnx",
+  "points": 18.146700906813923
+ },
+ "240": {
+  "cost": 1475,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task240.onnx",
+  "points": 17.703586731226082
+ },
+ "241": {
+  "cost": 0,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task241.onnx",
+  "points": 25.0
+ },
+ "242": {
+  "cost": 431,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task242.onnx",
+  "points": 18.933891909896253
+ },
+ "243": {
+  "cost": 10710,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task243.onnx",
+  "points": 15.721066836558206
+ },
+ "244": {
+  "cost": 1179,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task244.onnx",
+  "points": 17.92757809946263
+ },
+ "245": {
+  "cost": 2625,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task245.onnx",
+  "points": 17.127163824974275
+ },
+ "246": {
+  "cost": 2067,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task246.onnx",
+  "points": 17.366146440318232
+ },
+ "247": {
+  "cost": 461,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task247.onnx",
+  "points": 18.86660195700335
+ },
+ "248": {
+  "cost": 151,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task248.onnx",
+  "points": 19.982720163185075
+ },
+ "249": {
+  "cost": 261,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task249.onnx",
+  "points": 19.435479592677307
+ },
+ "250": {
+  "cost": 2123,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task250.onnx",
+  "points": 17.339414538296744
+ },
+ "251": {
+  "cost": 4516,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task251.onnx",
+  "points": 16.584618074730447
+ },
+ "252": {
+  "cost": 180,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task252.onnx",
+  "points": 19.807043149109788
+ },
+ "253": {
+  "cost": 500,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task253.onnx",
+  "points": 18.78539190157781
+ },
+ "254": {
+  "cost": 687,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task254.onnx",
+  "points": 18.467665707777652
+ },
+ "255": {
+  "cost": 8911,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task255.onnx",
+  "points": 15.90495825238728
+ },
+ "256": {
+  "cost": 2114,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task256.onnx",
+  "points": 17.343662833569816
+ },
+ "257": {
+  "cost": 400,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task257.onnx",
+  "points": 19.00853545289202
+ },
+ "258": {
+  "cost": 160,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task258.onnx",
+  "points": 19.924826184766175
+ },
+ "259": {
+  "cost": 892,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task259.onnx",
+  "points": 18.206533867419992
+ },
+ "260": {
+  "cost": 1573,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task260.onnx",
+  "points": 17.639260096941722
+ },
+ "261": {
+  "cost": 200,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task261.onnx",
+  "points": 19.701682633451963
+ },
+ "262": {
+  "cost": 106,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task262.onnx",
+  "points": 20.336560905887932
+ },
+ "263": {
+  "cost": 670,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task263.onnx",
+  "points": 18.49272228761499
+ },
+ "264": {
+  "cost": 2329,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task264.onnx",
+  "points": 17.24680573011566
+ },
+ "265": {
+  "cost": 4357,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task265.onnx",
+  "points": 16.620460973882558
+ },
+ "266": {
+  "cost": 311,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task266.onnx",
+  "points": 19.260207087820767
+ },
+ "267": {
+  "cost": 758,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task267.onnx",
+  "points": 18.36931661435763
+ },
+ "268": {
+  "cost": 2993,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task268.onnx",
+  "points": 16.9959684921473
+ },
+ "269": {
+  "cost": 709,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task269.onnx",
+  "points": 18.436144473467873
+ },
+ "270": {
+  "cost": 2858,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task270.onnx",
+  "points": 17.042122641510186
+ },
+ "271": {
+  "cost": 1187,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task271.onnx",
+  "points": 17.92081560539033
+ },
+ "272": {
+  "cost": 402,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task272.onnx",
+  "points": 19.003547911380977
+ },
+ "273": {
+  "cost": 2027,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task273.onnx",
+  "points": 17.385687853548
+ },
+ "274": {
+  "cost": 175,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task274.onnx",
+  "points": 19.835214026076486
+ },
+ "275": {
+  "cost": 1356,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task275.onnx",
+  "points": 17.78770553149966
+ },
+ "276": {
+  "cost": 10,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task276.onnx",
+  "points": 22.697414907005953
+ },
+ "277": {
+  "cost": 3540,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task277.onnx",
+  "points": 16.82811799387218
+ },
+ "278": {
+  "cost": 4505,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task278.onnx",
+  "points": 16.58705682995756
+ },
+ "279": {
+  "cost": 5546,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task279.onnx",
+  "points": 16.37916777382428
+ },
+ "280": {
+  "cost": 4591,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task280.onnx",
+  "points": 16.568146855750776
+ },
+ "281": {
+  "cost": 1329,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task281.onnx",
+  "points": 17.807817941286753
+ },
+ "282": {
+  "cost": 446,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task282.onnx",
+  "points": 18.899681047979936
+ },
+ "283": {
+  "cost": 642,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task283.onnx",
+  "points": 18.53541169631004
+ },
+ "284": {
+  "cost": 3089,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task284.onnx",
+  "points": 16.96439730708142
+ },
+ "285": {
+  "cost": 18674,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task285.onnx",
+  "points": 15.165112538956128
+ },
+ "286": {
+  "cost": 26909,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task286.onnx",
+  "points": 14.799783917876258
+ },
+ "287": {
+  "cost": 910,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task287.onnx",
+  "points": 18.186555400489105
+ },
+ "288": {
+  "cost": 958,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task288.onnx",
+  "points": 18.13515222202914
+ },
+ "289": {
+  "cost": 742,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task289.onnx",
+  "points": 18.39065075683262
+ },
+ "290": {
+  "cost": 355,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task290.onnx",
+  "points": 19.127882210524582
+ },
+ "291": {
+  "cost": 66,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task291.onnx",
+  "points": 20.810345257973573
+ },
+ "292": {
+  "cost": 80,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task292.onnx",
+  "points": 20.61797336532612
+ },
+ "293": {
+  "cost": 1043,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task293.onnx",
+  "points": 18.050143544999226
+ },
+ "294": {
+  "cost": 910,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task294.onnx",
+  "points": 18.186555400489105
+ },
+ "295": {
+  "cost": 1604,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task295.onnx",
+  "points": 17.61974421157354
+ },
+ "296": {
+  "cost": 314,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task296.onnx",
+  "points": 19.25060701409175
+ },
+ "297": {
+  "cost": 1389,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task297.onnx",
+  "points": 17.763660657245655
+ },
+ "298": {
+  "cost": 135,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task298.onnx",
+  "points": 20.09472522156157
+ },
+ "299": {
+  "cost": 50,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task299.onnx",
+  "points": 21.087976994571854
+ },
+ "300": {
+  "cost": 526,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task300.onnx",
+  "points": 18.73469878726229
+ },
+ "301": {
+  "cost": 1141,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task301.onnx",
+  "points": 17.960339650137925
+ },
+ "302": {
+  "cost": 1774,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task302.onnx",
+  "points": 17.519007837130474
+ },
+ "303": {
+  "cost": 1450,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task303.onnx",
+  "points": 17.72068116458538
+ },
+ "304": {
+  "cost": 1320,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task304.onnx",
+  "points": 17.814612984419583
+ },
+ "305": {
+  "cost": 636,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task305.onnx",
+  "points": 18.544801436659878
+ },
+ "306": {
+  "cost": 300,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task306.onnx",
+  "points": 19.2962175253438
+ },
+ "307": {
+  "cost": 5,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task307.onnx",
+  "points": 23.3905620875659
+ },
+ "308": {
+  "cost": 1468,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task308.onnx",
+  "points": 17.708343790825538
+ },
+ "309": {
+  "cost": 10,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task309.onnx",
+  "points": 22.697414907005953
+ },
+ "310": {
+  "cost": 3184,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task310.onnx",
+  "points": 16.934106453035724
+ },
+ "311": {
+  "cost": 30,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task311.onnx",
+  "points": 21.598802618337846
+ },
+ "312": {
+  "cost": 20,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task312.onnx",
+  "points": 22.00426772644601
+ },
+ "313": {
+  "cost": 188,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task313.onnx",
+  "points": 19.76355803717005
+ },
+ "314": {
+  "cost": 100,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task314.onnx",
+  "points": 20.394829814011906
+ },
+ "315": {
+  "cost": 230,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task315.onnx",
+  "points": 19.561920691076804
+ },
+ "316": {
+  "cost": 426,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task316.onnx",
+  "points": 18.94556065373063
+ },
+ "317": {
+  "cost": 146,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task317.onnx",
+  "points": 20.016393378291664
+ },
+ "318": {
+  "cost": 100,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task318.onnx",
+  "points": 20.394829814011906
+ },
+ "319": {
+  "cost": 5833,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task319.onnx",
+  "points": 16.328713273246365
+ },
+ "320": {
+  "cost": 770,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task320.onnx",
+  "points": 18.35360948515227
+ },
+ "321": {
+  "cost": 300,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task321.onnx",
+  "points": 19.2962175253438
+ },
+ "322": {
+  "cost": 200,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task322.onnx",
+  "points": 19.701682633451963
+ },
+ "323": {
+  "cost": 1630,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task323.onnx",
+  "points": 17.60366470619919
+ },
+ "324": {
+  "cost": 8639,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task324.onnx",
+  "points": 15.935957885641116
+ },
+ "325": {
+  "cost": 1483,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task325.onnx",
+  "points": 17.698177657862068
+ },
+ "326": {
+  "cost": 30,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task326.onnx",
+  "points": 21.598802618337846
+ },
+ "327": {
+  "cost": 638,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task327.onnx",
+  "points": 18.54166171665521
+ },
+ "328": {
+  "cost": 6304,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task328.onnx",
+  "points": 16.251060368462284
+ },
+ "329": {
+  "cost": 1050,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task329.onnx",
+  "points": 18.04345455684843
+ },
+ "330": {
+  "cost": 2825,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task330.onnx",
+  "points": 17.05373635641946
+ },
+ "331": {
+  "cost": 910,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task331.onnx",
+  "points": 18.186555400489105
+ },
+ "332": {
+  "cost": 561,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task332.onnx",
+  "points": 18.670279094477305
+ },
+ "333": {
+  "cost": 2401,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task333.onnx",
+  "points": 17.216359403778746
+ },
+ "334": {
+  "cost": 194,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task334.onnx",
+  "points": 19.73214184093667
+ },
+ "335": {
+  "cost": 1380,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task335.onnx",
+  "points": 17.77016122184875
+ },
+ "336": {
+  "cost": 1820,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task336.onnx",
+  "points": 17.493408219929158
+ },
+ "337": {
+  "cost": 10,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task337.onnx",
+  "points": 22.697414907005953
+ },
+ "338": {
+  "cost": 8848,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task338.onnx",
+  "points": 15.912053276237884
+ },
+ "339": {
+  "cost": 140,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task339.onnx",
+  "points": 20.058357577390694
+ },
+ "340": {
+  "cost": 3404,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task340.onnx",
+  "points": 16.867293510306737
+ },
+ "341": {
+  "cost": 1427,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task341.onnx",
+  "points": 17.736670382523165
+ },
+ "342": {
+  "cost": 1072,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task342.onnx",
+  "points": 18.022718658369254
+ },
+ "343": {
+  "cost": 1539,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task343.onnx",
+  "points": 17.66111186616112
+ },
+ "344": {
+  "cost": 910,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task344.onnx",
+  "points": 18.186555400489105
+ },
+ "345": {
+  "cost": 1495,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task345.onnx",
+  "points": 17.690118514175214
+ },
+ "346": {
+  "cost": 1254,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task346.onnx",
+  "points": 17.865906278807135
+ },
+ "347": {
+  "cost": 143,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task347.onnx",
+  "points": 20.03715536974009
+ },
+ "348": {
+  "cost": 1706,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task348.onnx",
+  "points": 17.558093271948376
+ },
+ "349": {
+  "cost": 14892,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task349.onnx",
+  "points": 15.391420565007392
+ },
+ "350": {
+  "cost": 9036,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task350.onnx",
+  "points": 15.891028122412106
+ },
+ "351": {
+  "cost": 1229,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task351.onnx",
+  "points": 17.886043890433967
+ },
+ "352": {
+  "cost": 460,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/candidates/task352/conv_int.onnx",
+  "points": 18.86877351051686
+ },
+ "353": {
+  "cost": 244,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task353.onnx",
+  "points": 19.5028317747068
+ },
+ "354": {
+  "cost": 2218,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task354.onnx",
+  "points": 17.295638832089686
+ },
+ "355": {
+  "cost": 539,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task355.onnx",
+  "points": 18.710284429091004
+ },
+ "356": {
+  "cost": 1319,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task356.onnx",
+  "points": 17.815370847282686
+ },
+ "357": {
+  "cost": 291,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task357.onnx",
+  "points": 19.326676732828506
+ },
+ "358": {
+  "cost": 3798,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task358.onnx",
+  "points": 16.757770108627767
+ },
+ "359": {
+  "cost": 4284,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task359.onnx",
+  "points": 16.63735756843236
+ },
+ "360": {
+  "cost": 340,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task360.onnx",
+  "points": 19.17105438238979
+ },
+ "361": {
+  "cost": 4606,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task361.onnx",
+  "points": 16.56488491961937
+ },
+ "362": {
+  "cost": 521,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task362.onnx",
+  "points": 18.744249958246634
+ },
+ "363": {
+  "cost": 4284,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task363.onnx",
+  "points": 16.63735756843236
+ },
+ "364": {
+  "cost": 14642,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task364.onnx",
+  "points": 15.408350609793413
+ },
+ "365": {
+  "cost": 3122,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task365.onnx",
+  "points": 16.953770898924624
+ },
+ "366": {
+  "cost": 30159,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task366.onnx",
+  "points": 14.68576133492647
+ },
+ "367": {
+  "cost": 13926,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task367.onnx",
+  "points": 15.458487124497507
+ },
+ "368": {
+  "cost": 3590,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task368.onnx",
+  "points": 16.814092518517676
+ },
+ "369": {
+  "cost": 1393,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task369.onnx",
+  "points": 17.760785026220194
+ },
+ "370": {
+  "cost": 6598,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task370.onnx",
+  "points": 16.205478148211473
+ },
+ "371": {
+  "cost": 467,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task371.onnx",
+  "points": 18.853670742331104
+ },
+ "372": {
+  "cost": 710,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task372.onnx",
+  "points": 18.43473502996464
+ },
+ "373": {
+  "cost": 60,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task373.onnx",
+  "points": 20.9056554377779
+ },
+ "374": {
+  "cost": 2217,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task374.onnx",
+  "points": 17.29608979038369
+ },
+ "375": {
+  "cost": 327,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task375.onnx",
+  "points": 19.210039829102747
+ },
+ "376": {
+  "cost": 186,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task376.onnx",
+  "points": 19.774253326286797
+ },
+ "377": {
+  "cost": 4567,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task377.onnx",
+  "points": 16.573388186815002
+ },
+ "378": {
+  "cost": 3091,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task378.onnx",
+  "points": 16.963750057867884
+ },
+ "379": {
+  "cost": 7733,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task379.onnx",
+  "points": 16.046747835390967
+ },
+ "380": {
+  "cost": 99,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task380.onnx",
+  "points": 20.40488014986541
+ },
+ "381": {
+  "cost": 1753,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task381.onnx",
+  "points": 17.530916115078767
+ },
+ "382": {
+  "cost": 5695,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task382.onnx",
+  "points": 16.352656124118717
+ },
+ "383": {
+  "cost": 5830,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task383.onnx",
+  "points": 16.32922772065546
+ },
+ "384": {
+  "cost": 481,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task384.onnx",
+  "points": 18.824132729894238
+ },
+ "385": {
+  "cost": 30,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task385.onnx",
+  "points": 21.598802618337846
+ },
+ "386": {
+  "cost": 211,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task386.onnx",
+  "points": 19.648141866523932
+ },
+ "387": {
+  "cost": 4345,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task387.onnx",
+  "points": 16.623218962300506
+ },
+ "388": {
+  "cost": 1829,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task388.onnx",
+  "points": 17.488475351609132
+ },
+ "389": {
+  "cost": 130,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task389.onnx",
+  "points": 20.132465549544417
+ },
+ "390": {
+  "cost": 2699,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task390.onnx",
+  "points": 17.099363386981995
+ },
+ "391": {
+  "cost": 159,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task391.onnx",
+  "points": 19.93109579777977
+ },
+ "392": {
+  "cost": 1941,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task392.onnx",
+  "points": 17.42904141683099
+ },
+ "393": {
+  "cost": 144,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task393.onnx",
+  "points": 20.030186700424
+ },
+ "394": {
+  "cost": 676,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task394.onnx",
+  "points": 18.483806923957037
+ },
+ "395": {
+  "cost": 165,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task395.onnx",
+  "points": 19.89405452609942
+ },
+ "396": {
+  "cost": 3561,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/neurogolf-2026-all-graph-surgeries/task396.onnx",
+  "points": 16.822203316722224
+ },
+ "397": {
+  "cost": 2752,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task397.onnx",
+  "points": 17.079916800946766
+ },
+ "398": {
+  "cost": 2197,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task398.onnx",
+  "points": 17.30515192761539
+ },
+ "399": {
+  "cost": 60,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/baselines/udit/nets/task399.onnx",
+  "points": 20.9056554377779
+ },
+ "400": {
+  "cost": 1181,
+  "path": "/Volumes/SANDISK ELE/ARCAGIneurogolf/merge_work/2026-neurogolf-baseline/task400.onnx",
+  "points": 17.92588318380264
+ }
+}

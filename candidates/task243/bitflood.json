@@ -1,0 +1,21 @@
+{
+ "model": "/Volumes/SANDISK ELE/ARCAGIneurogolf/candidates/task243/bitflood.onnx",
+ "task": 243,
+ "official": {
+  "right": 265,
+  "wrong": 0,
+  "fail_splits": [],
+  "memory": 14348,
+  "params": 431,
+  "cost": 14779,
+  "points": 15.399037466785428,
+  "filesize": 156401
+ },
+ "fresh": {
+  "right": 2000,
+  "wrong": 0
+ },
+ "points": 15.399037466785428,
+ "cost": 14779,
+ "ok": true
+}

@@ -1,0 +1,21 @@
+{
+ "model": "/Volumes/SANDISK ELE/ARCAGIneurogolf/candidates/task230/conv_int.onnx",
+ "task": 230,
+ "official": {
+  "right": 266,
+  "wrong": 0,
+  "fail_splits": [],
+  "memory": 0,
+  "params": 900,
+  "cost": 900,
+  "points": 18.197605236675688,
+  "filesize": 3782
+ },
+ "fresh": {
+  "right": 2000,
+  "wrong": 0
+ },
+ "points": 18.197605236675688,
+ "cost": 900,
+ "ok": true
+}

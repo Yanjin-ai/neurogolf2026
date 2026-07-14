@@ -1,0 +1,32 @@
+[
+ {
+  "improved": true,
+  "old": 4027,
+  "new": 3947,
+  "gain": 0.0201,
+  "applied": [
+   "broadcast"
+  ],
+  "task": 174
+ },
+ {
+  "improved": true,
+  "old": 4284,
+  "new": 4272,
+  "gain": 0.0028,
+  "applied": [
+   "broadcast"
+  ],
+  "task": 363
+ },
+ {
+  "improved": true,
+  "old": 2849,
+  "new": 2848,
+  "gain": 0.0004,
+  "applied": [
+   "simplify"
+  ],
+  "task": 105
+ }
+]

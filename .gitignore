@@ -1,0 +1,23 @@
+# large local envs / generated / caches
+.venv/
+.tmp/
+gen_cache/
+merge_work/
+submissions/
+surgered/
+data_zip/
+__pycache__/
+*.pyc
+.DS_Store
+._*
+
+# third-party / others' work (large, external, separately obtainable)
+# Google arc-gen + arc-dsl (Apache-2.0), other teams' Kaggle submissions/notebooks
+third_party/
+bundles/
+baselines/
+study/
+lb/
+
+# competition data (public via Kaggle, not redistributed here)
+data/

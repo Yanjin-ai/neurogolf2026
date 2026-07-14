@@ -1,0 +1,675 @@
+[
+ {
+  "task": 366,
+  "cost": 30159,
+  "tech": "conv",
+  "cheap_sibling": 67,
+  "sibling_cost": 0,
+  "sibling_tech": "einsum",
+  "potential": 10.314,
+  "structure": [
+   "plain"
+  ]
+ },
+ {
+  "task": 286,
+  "cost": 26909,
+  "tech": "bitpacked",
+  "cheap_sibling": 67,
+  "sibling_cost": 0,
+  "sibling_tech": "einsum",
+  "potential": 10.2,
+  "structure": [
+   "plain"
+  ]
+ },
+ {
+  "task": 54,
+  "cost": 25144,
+  "tech": "conv",
+  "cheap_sibling": 179,
+  "sibling_cost": 0,
+  "sibling_tech": "dense",
+  "potential": 10.132,
+  "structure": [
+   "transpose"
+  ]
+ },
+ {
+  "task": 187,
+  "cost": 15790,
+  "tech": "bitpacked",
+  "cheap_sibling": 179,
+  "sibling_cost": 0,
+  "sibling_tech": "dense",
+  "potential": 9.667,
+  "structure": [
+   "transpose"
+  ]
+ },
+ {
+  "task": 145,
+  "cost": 12855,
+  "tech": "maxpool-prop",
+  "cheap_sibling": 67,
+  "sibling_cost": 0,
+  "sibling_tech": "einsum",
+  "potential": 9.461,
+  "structure": [
+   "plain"
+  ]
+ },
+ {
+  "task": 243,
+  "cost": 10710,
+  "tech": "bitpacked",
+  "cheap_sibling": 67,
+  "sibling_cost": 0,
+  "sibling_tech": "einsum",
+  "potential": 9.279,
+  "structure": [
+   "plain"
+  ]
+ },
+ {
+  "task": 66,
+  "cost": 10643,
+  "tech": "einsum",
+  "cheap_sibling": 179,
+  "sibling_cost": 0,
+  "sibling_tech": "dense",
+  "potential": 9.273,
+  "structure": [
+   "transpose"
+  ]
+ },
+ {
+  "task": 110,
+  "cost": 10327,
+  "tech": "maxpool-prop",
+  "cheap_sibling": 67,
+  "sibling_cost": 0,
+  "sibling_tech": "einsum",
+  "potential": 9.243,
+  "structure": [
+   "plain"
+  ]
+ },
+ {
+  "task": 379,
+  "cost": 7733,
+  "tech": "einsum",
+  "cheap_sibling": 179,
+  "sibling_cost": 0,
+  "sibling_tech": "dense",
+  "potential": 8.953,
+  "structure": [
+   "transpose"
+  ]
+ },
+ {
+  "task": 5,
+  "cost": 6645,
+  "tech": "quantized-conv",
+  "cheap_sibling": 67,
+  "sibling_cost": 0,
+  "sibling_tech": "einsum",
+  "potential": 8.802,
+  "structure": [
+   "plain"
+  ]
+ },
+ {
+  "task": 17,
+  "cost": 6453,
+  "tech": "dense",
+  "cheap_sibling": 67,
+  "sibling_cost": 0,
+  "sibling_tech": "einsum",
+  "potential": 8.772,
+  "structure": [
+   "plain"
+  ]
+ },
+ {
+  "task": 383,
+  "cost": 5830,
+  "tech": "conv",
+  "cheap_sibling": 67,
+  "sibling_cost": 0,
+  "sibling_tech": "einsum",
+  "potential": 8.671,
+  "structure": [
+   "plain"
+  ]
+ },
+ {
+  "task": 4,
+  "cost": 4866,
+  "tech": "conv",
+  "cheap_sibling": 67,
+  "sibling_cost": 0,
+  "sibling_tech": "einsum",
+  "potential": 8.49,
+  "structure": [
+   "plain"
+  ]
+ },
+ {
+  "task": 280,
+  "cost": 4591,
+  "tech": "einsum",
+  "cheap_sibling": 179,
+  "sibling_cost": 0,
+  "sibling_tech": "dense",
+  "potential": 8.432,
+  "structure": [
+   "transpose"
+  ]
+ },
+ {
+  "task": 202,
+  "cost": 4481,
+  "tech": "einsum",
+  "cheap_sibling": 179,
+  "sibling_cost": 0,
+  "sibling_tech": "dense",
+  "potential": 8.408,
+  "structure": [
+   "transpose"
+  ]
+ },
+ {
+  "task": 208,
+  "cost": 4181,
+  "tech": "quantized-conv",
+  "cheap_sibling": 67,
+  "sibling_cost": 0,
+  "sibling_tech": "einsum",
+  "potential": 8.338,
+  "structure": [
+   "plain"
+  ]
+ },
+ {
+  "task": 50,
+  "cost": 3849,
+  "tech": "maxpool-prop",
+  "cheap_sibling": 67,
+  "sibling_cost": 0,
+  "sibling_tech": "einsum",
+  "potential": 8.256,
+  "structure": [
+   "plain"
+  ]
+ },
+ {
+  "task": 368,
+  "cost": 3590,
+  "tech": "conv",
+  "cheap_sibling": 67,
+  "sibling_cost": 0,
+  "sibling_tech": "einsum",
+  "potential": 8.186,
+  "structure": [
+   "plain"
+  ]
+ },
+ {
+  "task": 234,
+  "cost": 3498,
+  "tech": "einsum",
+  "cheap_sibling": 179,
+  "sibling_cost": 0,
+  "sibling_tech": "dense",
+  "potential": 8.16,
+  "structure": [
+   "transpose"
+  ]
+ },
+ {
+  "task": 284,
+  "cost": 3089,
+  "tech": "einsum",
+  "cheap_sibling": 179,
+  "sibling_cost": 0,
+  "sibling_tech": "dense",
+  "potential": 8.036,
+  "structure": [
+   "transpose"
+  ]
+ },
+ {
+  "task": 86,
+  "cost": 3028,
+  "tech": "quantized-conv",
+  "cheap_sibling": 67,
+  "sibling_cost": 0,
+  "sibling_tech": "einsum",
+  "potential": 8.016,
+  "structure": [
+   "plain"
+  ]
+ },
+ {
+  "task": 64,
+  "cost": 10445,
+  "tech": "einsum",
+  "cheap_sibling": 276,
+  "sibling_cost": 10,
+  "sibling_tech": "gather-heavy",
+  "potential": 6.951,
+  "structure": [
+   "random_pixels"
+  ]
+ },
+ {
+  "task": 350,
+  "cost": 9036,
+  "tech": "maxpool-prop",
+  "cheap_sibling": 276,
+  "sibling_cost": 10,
+  "sibling_tech": "gather-heavy",
+  "potential": 6.806,
+  "structure": [
+   "random_pixels"
+  ]
+ },
+ {
+  "task": 233,
+  "cost": 31975,
+  "tech": "conv",
+  "cheap_sibling": 291,
+  "sibling_cost": 66,
+  "sibling_tech": "einsum",
+  "potential": 6.183,
+  "structure": [
+   "overlaps"
+  ]
+ },
+ {
+  "task": 361,
+  "cost": 4606,
+  "tech": "conv",
+  "cheap_sibling": 337,
+  "sibling_cost": 10,
+  "sibling_tech": "gather-heavy",
+  "potential": 6.133,
+  "structure": [
+   "choice"
+  ]
+ },
+ {
+  "task": 165,
+  "cost": 4532,
+  "tech": "quantized-conv",
+  "cheap_sibling": 276,
+  "sibling_cost": 10,
+  "sibling_tech": "gather-heavy",
+  "potential": 6.116,
+  "structure": [
+   "random_pixels"
+  ]
+ },
+ {
+  "task": 265,
+  "cost": 4357,
+  "tech": "dense",
+  "cheap_sibling": 276,
+  "sibling_cost": 10,
+  "sibling_tech": "gather-heavy",
+  "potential": 6.077,
+  "structure": [
+   "random_pixels"
+  ]
+ },
+ {
+  "task": 14,
+  "cost": 4097,
+  "tech": "einsum",
+  "cheap_sibling": 276,
+  "sibling_cost": 10,
+  "sibling_tech": "gather-heavy",
+  "potential": 6.015,
+  "structure": [
+   "random_pixels"
+  ]
+ },
+ {
+  "task": 158,
+  "cost": 26486,
+  "tech": "quantized-conv",
+  "cheap_sibling": 291,
+  "sibling_cost": 66,
+  "sibling_tech": "einsum",
+  "potential": 5.995,
+  "structure": [
+   "overlaps"
+  ]
+ },
+ {
+  "task": 162,
+  "cost": 3500,
+  "tech": "conv",
+  "cheap_sibling": 276,
+  "sibling_cost": 10,
+  "sibling_tech": "gather-heavy",
+  "potential": 5.858,
+  "structure": [
+   "random_pixels"
+  ]
+ },
+ {
+  "task": 90,
+  "cost": 3053,
+  "tech": "dense",
+  "cheap_sibling": 276,
+  "sibling_cost": 10,
+  "sibling_tech": "gather-heavy",
+  "potential": 5.721,
+  "structure": [
+   "random_pixels"
+  ]
+ },
+ {
+  "task": 173,
+  "cost": 13383,
+  "tech": "conv",
+  "cheap_sibling": 291,
+  "sibling_cost": 66,
+  "sibling_tech": "einsum",
+  "potential": 5.312,
+  "structure": [
+   "overlaps"
+  ]
+ },
+ {
+  "task": 18,
+  "cost": 24360,
+  "tech": "maxpool-prop",
+  "cheap_sibling": 393,
+  "sibling_cost": 144,
+  "sibling_tech": "dense",
+  "potential": 5.131,
+  "structure": [
+   "continuous_creature",
+   "overlaps"
+  ]
+ },
+ {
+  "task": 148,
+  "cost": 4887,
+  "tech": "dense",
+  "cheap_sibling": 385,
+  "sibling_cost": 30,
+  "sibling_tech": "gather-heavy",
+  "potential": 5.093,
+  "structure": [
+   "flip_horiz"
+  ]
+ },
+ {
+  "task": 365,
+  "cost": 3122,
+  "tech": "conv",
+  "cheap_sibling": 312,
+  "sibling_cost": 20,
+  "sibling_tech": "einsum",
+  "potential": 5.05,
+  "structure": [
+   "choice",
+   "overlaps"
+  ]
+ },
+ {
+  "task": 204,
+  "cost": 10232,
+  "tech": "quantized-conv",
+  "cheap_sibling": 291,
+  "sibling_cost": 66,
+  "sibling_tech": "einsum",
+  "potential": 5.044,
+  "structure": [
+   "overlaps"
+  ]
+ },
+ {
+  "task": 338,
+  "cost": 8848,
+  "tech": "conv",
+  "cheap_sibling": 291,
+  "sibling_cost": 66,
+  "sibling_tech": "einsum",
+  "potential": 4.898,
+  "structure": [
+   "overlaps"
+  ]
+ },
+ {
+  "task": 358,
+  "cost": 3798,
+  "tech": "einsum",
+  "cheap_sibling": 385,
+  "sibling_cost": 30,
+  "sibling_tech": "gather-heavy",
+  "potential": 4.841,
+  "structure": [
+   "flip_horiz"
+  ]
+ },
+ {
+  "task": 23,
+  "cost": 8222,
+  "tech": "quantized-conv",
+  "cheap_sibling": 291,
+  "sibling_cost": 66,
+  "sibling_tech": "einsum",
+  "potential": 4.825,
+  "structure": [
+   "overlaps"
+  ]
+ },
+ {
+  "task": 349,
+  "cost": 14892,
+  "tech": "quantized-conv",
+  "cheap_sibling": 266,
+  "sibling_cost": 311,
+  "sibling_tech": "conv",
+  "potential": 3.869,
+  "structure": [
+   "draw"
+  ]
+ },
+ {
+  "task": 367,
+  "cost": 13926,
+  "tech": "quantized-conv",
+  "cheap_sibling": 266,
+  "sibling_cost": 311,
+  "sibling_tech": "conv",
+  "potential": 3.802,
+  "structure": [
+   "draw"
+  ]
+ },
+ {
+  "task": 219,
+  "cost": 8715,
+  "tech": "dense",
+  "cheap_sibling": 266,
+  "sibling_cost": 311,
+  "sibling_tech": "conv",
+  "potential": 3.333,
+  "structure": [
+   "draw"
+  ]
+ },
+ {
+  "task": 174,
+  "cost": 4027,
+  "tech": "conv",
+  "cheap_sibling": 393,
+  "sibling_cost": 144,
+  "sibling_tech": "dense",
+  "potential": 3.331,
+  "structure": [
+   "continuous_creature",
+   "overlaps"
+  ]
+ },
+ {
+  "task": 285,
+  "cost": 18674,
+  "tech": "conv",
+  "cheap_sibling": 267,
+  "sibling_cost": 758,
+  "sibling_tech": "dense",
+  "potential": 3.204,
+  "structure": [
+   "continuous_creature"
+  ]
+ },
+ {
+  "task": 277,
+  "cost": 3540,
+  "tech": "maxpool-prop",
+  "cheap_sibling": 393,
+  "sibling_cost": 144,
+  "sibling_tech": "dense",
+  "potential": 3.202,
+  "structure": [
+   "continuous_creature",
+   "overlaps"
+  ]
+ },
+ {
+  "task": 96,
+  "cost": 7558,
+  "tech": "dense",
+  "cheap_sibling": 266,
+  "sibling_cost": 311,
+  "sibling_tech": "conv",
+  "potential": 3.191,
+  "structure": [
+   "draw"
+  ]
+ },
+ {
+  "task": 44,
+  "cost": 3212,
+  "tech": "maxpool-prop",
+  "cheap_sibling": 393,
+  "sibling_cost": 144,
+  "sibling_tech": "dense",
+  "potential": 3.105,
+  "structure": [
+   "continuous_creature",
+   "overlaps"
+  ]
+ },
+ {
+  "task": 107,
+  "cost": 3576,
+  "tech": "dense",
+  "cheap_sibling": 231,
+  "sibling_cost": 219,
+  "sibling_tech": "gather-heavy",
+  "potential": 2.793,
+  "structure": [
+   "choice",
+   "draw"
+  ]
+ },
+ {
+  "task": 118,
+  "cost": 12282,
+  "tech": "quantized-conv",
+  "cheap_sibling": 48,
+  "sibling_cost": 803,
+  "sibling_tech": "bitpacked",
+  "potential": 2.728,
+  "structure": [
+   "overlaps",
+   "random_pixels"
+  ]
+ },
+ {
+  "task": 363,
+  "cost": 4284,
+  "tech": "conv",
+  "cheap_sibling": 111,
+  "sibling_cost": 309,
+  "sibling_tech": "einsum",
+  "potential": 2.629,
+  "structure": [
+   "conway_sprite",
+   "diagonally_connected"
+  ]
+ },
+ {
+  "task": 137,
+  "cost": 3389,
+  "tech": "einsum",
+  "cheap_sibling": 266,
+  "sibling_cost": 311,
+  "sibling_tech": "conv",
+  "potential": 2.388,
+  "structure": [
+   "draw"
+  ]
+ },
+ {
+  "task": 216,
+  "cost": 8415,
+  "tech": "quantized-conv",
+  "cheap_sibling": 48,
+  "sibling_cost": 803,
+  "sibling_tech": "bitpacked",
+  "potential": 2.349,
+  "structure": [
+   "overlaps",
+   "random_pixels"
+  ]
+ },
+ {
+  "task": 77,
+  "cost": 7657,
+  "tech": "quantized-conv",
+  "cheap_sibling": 48,
+  "sibling_cost": 803,
+  "sibling_tech": "bitpacked",
+  "potential": 2.255,
+  "structure": [
+   "overlaps",
+   "random_pixels"
+  ]
+ },
+ {
+  "task": 25,
+  "cost": 10236,
+  "tech": "einsum",
+  "cheap_sibling": 93,
+  "sibling_cost": 3332,
+  "sibling_tech": "dense",
+  "potential": 1.122,
+  "structure": [
+   "random_pixels",
+   "transpose"
+  ]
+ },
+ {
+  "task": 138,
+  "cost": 12042,
+  "tech": "conv",
+  "cheap_sibling": 278,
+  "sibling_cost": 4505,
+  "sibling_tech": "quantized-conv",
+  "potential": 0.983,
+  "structure": [
+   "draw",
+   "random_pixels",
+   "remove_neighbors"
+  ]
+ }
+]

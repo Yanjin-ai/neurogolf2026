@@ -1,0 +1,7 @@
+[
+{"cat" : "Session","pid" :19210,"tid" :333772,"dur" :61,"ts" :2,"ph" : "X","name" :"model_loading_array","args" : {}},
+{"cat" : "Session","pid" :19210,"tid" :333772,"dur" :52,"ts" :73,"ph" : "X","name" :"session_initialization","args" : {}},
+{"cat" : "Node","pid" :19210,"tid" :333772,"dur" :87,"ts" :166,"ph" : "X","name" :"output_kernel_time","args" : {"activation_size" : "36000","output_type_shape" : [{"float":[1,10,30,30]}],"thread_scheduling_stats" : {"main_thread": {"thread_pool_name": "session-5-intra-op", "thread_id": "0x20e1f20c0", "block_size": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1], "core": -1, "Distribution": 1, "DistributionEnqueue": 0, "Run": 6, "Wait": 11, "WaitRevoke": 0}, "sub_threads": {"0x16d9ef000": {"num_run": 10, "core": -1},"0x16da7b000": {"num_run": 10, "core": -1},"0x16db07000": {"num_run": 10, "core": -1},"0x16db93000": {"num_run": 10, "core": -1}}},"provider" : "CPUExecutionProvider","input_type_shape" : [{"float":[1,10,30,30]}],"node_index" : "0","op_name" : "Transpose","parameter_size" : "0","output_size" : "36000"}},
+{"cat" : "Session","pid" :19210,"tid" :333772,"dur" :92,"ts" :165,"ph" : "X","name" :"SequentialExecutor::Execute","args" : {}},
+{"cat" : "Session","pid" :19210,"tid" :333772,"dur" :98,"ts" :160,"ph" : "X","name" :"model_run","args" : {}}
+]

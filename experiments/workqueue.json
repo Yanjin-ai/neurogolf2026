@@ -1,0 +1,3602 @@
+[
+ {
+  "task": 352,
+  "arc_id": "dc1df850",
+  "baseline_points": 0.0,
+  "baseline_cost": 460,
+  "headroom": 25.0,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_dc1df850.py"
+ },
+ {
+  "task": 233,
+  "arc_id": "97a05b5b",
+  "baseline_points": 14.55,
+  "baseline_cost": 34408,
+  "headroom": 10.45,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_97a05b5b.py"
+ },
+ {
+  "task": 366,
+  "arc_id": "e6721834",
+  "baseline_points": 14.56,
+  "baseline_cost": 34151,
+  "headroom": 10.44,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_e6721834.py"
+ },
+ {
+  "task": 158,
+  "arc_id": "6aa20dc0",
+  "baseline_points": 14.74,
+  "baseline_cost": 28487,
+  "headroom": 10.26,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_6aa20dc0.py"
+ },
+ {
+  "task": 286,
+  "arc_id": "b782dc8a",
+  "baseline_points": 14.8,
+  "baseline_cost": 26978,
+  "headroom": 10.2,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_b782dc8a.py"
+ },
+ {
+  "task": 54,
+  "arc_id": "264363fd",
+  "baseline_points": 14.86,
+  "baseline_cost": 25410,
+  "headroom": 10.14,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_264363fd.py"
+ },
+ {
+  "task": 18,
+  "arc_id": "0e206a2e",
+  "baseline_points": 14.9,
+  "baseline_cost": 24384,
+  "headroom": 10.1,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_0e206a2e.py"
+ },
+ {
+  "task": 133,
+  "arc_id": "57aa92db",
+  "baseline_points": 15.02,
+  "baseline_cost": 21506,
+  "headroom": 9.98,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_57aa92db.py"
+ },
+ {
+  "task": 364,
+  "arc_id": "e509e548",
+  "baseline_points": 15.06,
+  "baseline_cost": 20805,
+  "headroom": 9.94,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_e509e548.py"
+ },
+ {
+  "task": 285,
+  "arc_id": "b775ac94",
+  "baseline_points": 15.11,
+  "baseline_cost": 19743,
+  "headroom": 9.89,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_b775ac94.py"
+ },
+ {
+  "task": 243,
+  "arc_id": "9edfc990",
+  "baseline_points": 15.21,
+  "baseline_cost": 17871,
+  "headroom": 9.79,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_9edfc990.py"
+ },
+ {
+  "task": 367,
+  "arc_id": "e73095fd",
+  "baseline_points": 15.28,
+  "baseline_cost": 16690,
+  "headroom": 9.72,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_e73095fd.py"
+ },
+ {
+  "task": 187,
+  "arc_id": "7b6016b9",
+  "baseline_points": 15.33,
+  "baseline_cost": 15792,
+  "headroom": 9.67,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_7b6016b9.py"
+ },
+ {
+  "task": 349,
+  "arc_id": "db93a21d",
+  "baseline_points": 15.38,
+  "baseline_cost": 15042,
+  "headroom": 9.62,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_db93a21d.py"
+ },
+ {
+  "task": 2,
+  "arc_id": "00d62c1b",
+  "baseline_points": 15.41,
+  "baseline_cost": 14608,
+  "headroom": 9.59,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_00d62c1b.py"
+ },
+ {
+  "task": 101,
+  "arc_id": "447fd412",
+  "baseline_points": 15.47,
+  "baseline_cost": 13750,
+  "headroom": 9.53,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_447fd412.py"
+ },
+ {
+  "task": 173,
+  "arc_id": "72322fa7",
+  "baseline_points": 15.5,
+  "baseline_cost": 13384,
+  "headroom": 9.5,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_72322fa7.py"
+ },
+ {
+  "task": 76,
+  "arc_id": "36d67576",
+  "baseline_points": 15.51,
+  "baseline_cost": 13169,
+  "headroom": 9.49,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_36d67576.py"
+ },
+ {
+  "task": 138,
+  "arc_id": "5daaa586",
+  "baseline_points": 15.53,
+  "baseline_cost": 13005,
+  "headroom": 9.47,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_5daaa586.py"
+ },
+ {
+  "task": 145,
+  "arc_id": "6455b5f5",
+  "baseline_points": 15.54,
+  "baseline_cost": 12855,
+  "headroom": 9.46,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_6455b5f5.py"
+ },
+ {
+  "task": 64,
+  "arc_id": "2c608aff",
+  "baseline_points": 15.55,
+  "baseline_cost": 12687,
+  "headroom": 9.45,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_2c608aff.py"
+ },
+ {
+  "task": 118,
+  "arc_id": "50846271",
+  "baseline_points": 15.58,
+  "baseline_cost": 12283,
+  "headroom": 9.42,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_50846271.py"
+ },
+ {
+  "task": 198,
+  "arc_id": "83302e8f",
+  "baseline_points": 15.66,
+  "baseline_cost": 11412,
+  "headroom": 9.34,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_83302e8f.py"
+ },
+ {
+  "task": 66,
+  "arc_id": "2dd70a9a",
+  "baseline_points": 15.69,
+  "baseline_cost": 11088,
+  "headroom": 9.31,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_2dd70a9a.py"
+ },
+ {
+  "task": 191,
+  "arc_id": "7df24a62",
+  "baseline_points": 15.69,
+  "baseline_cost": 11090,
+  "headroom": 9.31,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_7df24a62.py"
+ },
+ {
+  "task": 110,
+  "arc_id": "484b58aa",
+  "baseline_points": 15.73,
+  "baseline_cost": 10590,
+  "headroom": 9.27,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_484b58aa.py"
+ },
+ {
+  "task": 25,
+  "arc_id": "1a07d186",
+  "baseline_points": 15.77,
+  "baseline_cost": 10236,
+  "headroom": 9.23,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_1a07d186.py"
+ },
+ {
+  "task": 204,
+  "arc_id": "868de0fa",
+  "baseline_points": 15.77,
+  "baseline_cost": 10232,
+  "headroom": 9.23,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_868de0fa.py"
+ },
+ {
+  "task": 80,
+  "arc_id": "39e1d7f9",
+  "baseline_points": 15.81,
+  "baseline_cost": 9773,
+  "headroom": 9.19,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_39e1d7f9.py"
+ },
+ {
+  "task": 219,
+  "arc_id": "90f3ed37",
+  "baseline_points": 15.84,
+  "baseline_cost": 9491,
+  "headroom": 9.16,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_90f3ed37.py"
+ },
+ {
+  "task": 216,
+  "arc_id": "8efcae92",
+  "baseline_points": 15.88,
+  "baseline_cost": 9127,
+  "headroom": 9.12,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_8efcae92.py"
+ },
+ {
+  "task": 379,
+  "arc_id": "ecdecbb3",
+  "baseline_points": 15.88,
+  "baseline_cost": 9095,
+  "headroom": 9.12,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_ecdecbb3.py"
+ },
+ {
+  "task": 74,
+  "arc_id": "3631a71a",
+  "baseline_points": 15.89,
+  "baseline_cost": 9050,
+  "headroom": 9.11,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_3631a71a.py"
+ },
+ {
+  "task": 350,
+  "arc_id": "dbc1a6ce",
+  "baseline_points": 15.89,
+  "baseline_cost": 9036,
+  "headroom": 9.11,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_dbc1a6ce.py"
+ },
+ {
+  "task": 255,
+  "arc_id": "a64e4611",
+  "baseline_points": 15.9,
+  "baseline_cost": 8971,
+  "headroom": 9.1,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_a64e4611.py"
+ },
+ {
+  "task": 324,
+  "arc_id": "d07ae81c",
+  "baseline_points": 15.91,
+  "baseline_cost": 8894,
+  "headroom": 9.09,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_d07ae81c.py"
+ },
+ {
+  "task": 338,
+  "arc_id": "d5d6de2d",
+  "baseline_points": 15.91,
+  "baseline_cost": 8850,
+  "headroom": 9.09,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_d5d6de2d.py"
+ },
+ {
+  "task": 77,
+  "arc_id": "36fdfd69",
+  "baseline_points": 15.95,
+  "baseline_cost": 8512,
+  "headroom": 9.05,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_36fdfd69.py"
+ },
+ {
+  "task": 23,
+  "arc_id": "150deff5",
+  "baseline_points": 15.98,
+  "baseline_cost": 8228,
+  "headroom": 9.02,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_150deff5.py"
+ },
+ {
+  "task": 370,
+  "arc_id": "e8dc4411",
+  "baseline_points": 16.0,
+  "baseline_cost": 8104,
+  "headroom": 9.0,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_e8dc4411.py"
+ },
+ {
+  "task": 209,
+  "arc_id": "8a004b2b",
+  "baseline_points": 16.03,
+  "baseline_cost": 7862,
+  "headroom": 8.97,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_8a004b2b.py"
+ },
+ {
+  "task": 202,
+  "arc_id": "855e0971",
+  "baseline_points": 16.04,
+  "baseline_cost": 7804,
+  "headroom": 8.96,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_855e0971.py"
+ },
+ {
+  "task": 96,
+  "arc_id": "4290ef0e",
+  "baseline_points": 16.05,
+  "baseline_cost": 7682,
+  "headroom": 8.95,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_4290ef0e.py"
+ },
+ {
+  "task": 157,
+  "arc_id": "6a1e5592",
+  "baseline_points": 16.15,
+  "baseline_cost": 6990,
+  "headroom": 8.85,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_6a1e5592.py"
+ },
+ {
+  "task": 192,
+  "arc_id": "7e0986d6",
+  "baseline_points": 16.17,
+  "baseline_cost": 6835,
+  "headroom": 8.83,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_7e0986d6.py"
+ },
+ {
+  "task": 5,
+  "arc_id": "045e512c",
+  "baseline_points": 16.18,
+  "baseline_cost": 6763,
+  "headroom": 8.82,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_045e512c.py"
+ },
+ {
+  "task": 89,
+  "arc_id": "3e980e27",
+  "baseline_points": 16.18,
+  "baseline_cost": 6745,
+  "headroom": 8.82,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_3e980e27.py"
+ },
+ {
+  "task": 9,
+  "arc_id": "06df4c85",
+  "baseline_points": 16.19,
+  "baseline_cost": 6699,
+  "headroom": 8.81,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_06df4c85.py"
+ },
+ {
+  "task": 328,
+  "arc_id": "d22278a0",
+  "baseline_points": 16.2,
+  "baseline_cost": 6631,
+  "headroom": 8.8,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_d22278a0.py"
+ },
+ {
+  "task": 92,
+  "arc_id": "40853293",
+  "baseline_points": 16.21,
+  "baseline_cost": 6553,
+  "headroom": 8.79,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_40853293.py"
+ },
+ {
+  "task": 17,
+  "arc_id": "0dfd9992",
+  "baseline_points": 16.23,
+  "baseline_cost": 6455,
+  "headroom": 8.77,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_0dfd9992.py"
+ },
+ {
+  "task": 182,
+  "arc_id": "776ffc46",
+  "baseline_points": 16.28,
+  "baseline_cost": 6099,
+  "headroom": 8.72,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_776ffc46.py"
+ },
+ {
+  "task": 280,
+  "arc_id": "b527c5c6",
+  "baseline_points": 16.3,
+  "baseline_cost": 6032,
+  "headroom": 8.7,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_b527c5c6.py"
+ },
+ {
+  "task": 383,
+  "arc_id": "f1cefba8",
+  "baseline_points": 16.31,
+  "baseline_cost": 5960,
+  "headroom": 8.69,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_f1cefba8.py"
+ },
+ {
+  "task": 319,
+  "arc_id": "ce602527",
+  "baseline_points": 16.33,
+  "baseline_cost": 5850,
+  "headroom": 8.67,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_ce602527.py"
+ },
+ {
+  "task": 382,
+  "arc_id": "f15e1fac",
+  "baseline_points": 16.35,
+  "baseline_cost": 5732,
+  "headroom": 8.65,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_f15e1fac.py"
+ },
+ {
+  "task": 279,
+  "arc_id": "b2862040",
+  "baseline_points": 16.38,
+  "baseline_cost": 5555,
+  "headroom": 8.62,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_b2862040.py"
+ },
+ {
+  "task": 205,
+  "arc_id": "8731374e",
+  "baseline_points": 16.39,
+  "baseline_cost": 5511,
+  "headroom": 8.61,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_8731374e.py"
+ },
+ {
+  "task": 85,
+  "arc_id": "3bdb4ada",
+  "baseline_points": 16.41,
+  "baseline_cost": 5381,
+  "headroom": 8.59,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_3bdb4ada.py"
+ },
+ {
+  "task": 29,
+  "arc_id": "1c786137",
+  "baseline_points": 16.42,
+  "baseline_cost": 5299,
+  "headroom": 8.58,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_1c786137.py"
+ },
+ {
+  "task": 368,
+  "arc_id": "e76a88a6",
+  "baseline_points": 16.45,
+  "baseline_cost": 5145,
+  "headroom": 8.55,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_e76a88a6.py"
+ },
+ {
+  "task": 4,
+  "arc_id": "025d127b",
+  "baseline_points": 16.46,
+  "baseline_cost": 5121,
+  "headroom": 8.54,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_025d127b.py"
+ },
+ {
+  "task": 278,
+  "arc_id": "b27ca6d3",
+  "baseline_points": 16.48,
+  "baseline_cost": 5012,
+  "headroom": 8.52,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_b27ca6d3.py"
+ },
+ {
+  "task": 387,
+  "arc_id": "f35d900a",
+  "baseline_points": 16.48,
+  "baseline_cost": 5010,
+  "headroom": 8.52,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_f35d900a.py"
+ },
+ {
+  "task": 44,
+  "arc_id": "228f6490",
+  "baseline_points": 16.49,
+  "baseline_cost": 4974,
+  "headroom": 8.51,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_228f6490.py"
+ },
+ {
+  "task": 251,
+  "arc_id": "a5313dff",
+  "baseline_points": 16.5,
+  "baseline_cost": 4920,
+  "headroom": 8.5,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_a5313dff.py"
+ },
+ {
+  "task": 396,
+  "arc_id": "fcb5c309",
+  "baseline_points": 16.5,
+  "baseline_cost": 4929,
+  "headroom": 8.5,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_fcb5c309.py"
+ },
+ {
+  "task": 148,
+  "arc_id": "673ef223",
+  "baseline_points": 16.51,
+  "baseline_cost": 4888,
+  "headroom": 8.49,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_673ef223.py"
+ },
+ {
+  "task": 165,
+  "arc_id": "6d58a25d",
+  "baseline_points": 16.52,
+  "baseline_cost": 4817,
+  "headroom": 8.48,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_6d58a25d.py"
+ },
+ {
+  "task": 361,
+  "arc_id": "e40b9e2f",
+  "baseline_points": 16.52,
+  "baseline_cost": 4809,
+  "headroom": 8.48,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_e40b9e2f.py"
+ },
+ {
+  "task": 363,
+  "arc_id": "e5062a87",
+  "baseline_points": 16.56,
+  "baseline_cost": 4617,
+  "headroom": 8.44,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_e5062a87.py"
+ },
+ {
+  "task": 377,
+  "arc_id": "eb5a1d5d",
+  "baseline_points": 16.57,
+  "baseline_cost": 4567,
+  "headroom": 8.43,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_eb5a1d5d.py"
+ },
+ {
+  "task": 196,
+  "arc_id": "810b9b61",
+  "baseline_points": 16.58,
+  "baseline_cost": 4538,
+  "headroom": 8.42,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_810b9b61.py"
+ },
+ {
+  "task": 378,
+  "arc_id": "ec883f72",
+  "baseline_points": 16.6,
+  "baseline_cost": 4428,
+  "headroom": 8.4,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_ec883f72.py"
+ },
+ {
+  "task": 174,
+  "arc_id": "72ca375d",
+  "baseline_points": 16.62,
+  "baseline_cost": 4374,
+  "headroom": 8.38,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_72ca375d.py"
+ },
+ {
+  "task": 265,
+  "arc_id": "a8d7556c",
+  "baseline_points": 16.62,
+  "baseline_cost": 4357,
+  "headroom": 8.38,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_a8d7556c.py"
+ },
+ {
+  "task": 359,
+  "arc_id": "e26a3af2",
+  "baseline_points": 16.62,
+  "baseline_cost": 4342,
+  "headroom": 8.38,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_e26a3af2.py"
+ },
+ {
+  "task": 208,
+  "arc_id": "890034e9",
+  "baseline_points": 16.66,
+  "baseline_cost": 4197,
+  "headroom": 8.34,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_890034e9.py"
+ },
+ {
+  "task": 14,
+  "arc_id": "0b148d64",
+  "baseline_points": 16.68,
+  "baseline_cost": 4117,
+  "headroom": 8.32,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_0b148d64.py"
+ },
+ {
+  "task": 117,
+  "arc_id": "4c5c2cf0",
+  "baseline_points": 16.68,
+  "baseline_cost": 4089,
+  "headroom": 8.32,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_4c5c2cf0.py"
+ },
+ {
+  "task": 132,
+  "arc_id": "56ff96f3",
+  "baseline_points": 16.68,
+  "baseline_cost": 4089,
+  "headroom": 8.32,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_56ff96f3.py"
+ },
+ {
+  "task": 162,
+  "arc_id": "6cf79266",
+  "baseline_points": 16.69,
+  "baseline_cost": 4068,
+  "headroom": 8.31,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_6cf79266.py"
+ },
+ {
+  "task": 358,
+  "arc_id": "e21d9049",
+  "baseline_points": 16.7,
+  "baseline_cost": 4027,
+  "headroom": 8.3,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_e21d9049.py"
+ },
+ {
+  "task": 131,
+  "arc_id": "56dc2b01",
+  "baseline_points": 16.71,
+  "baseline_cost": 3976,
+  "headroom": 8.29,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_56dc2b01.py"
+ },
+ {
+  "task": 234,
+  "arc_id": "98cf29f8",
+  "baseline_points": 16.71,
+  "baseline_cost": 3987,
+  "headroom": 8.29,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_98cf29f8.py"
+ },
+ {
+  "task": 37,
+  "arc_id": "1f876c06",
+  "baseline_points": 16.72,
+  "baseline_cost": 3937,
+  "headroom": 8.28,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_1f876c06.py"
+ },
+ {
+  "task": 365,
+  "arc_id": "e50d258f",
+  "baseline_points": 16.72,
+  "baseline_cost": 3932,
+  "headroom": 8.28,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_e50d258f.py"
+ },
+ {
+  "task": 69,
+  "arc_id": "321b1fc6",
+  "baseline_points": 16.73,
+  "baseline_cost": 3912,
+  "headroom": 8.27,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_321b1fc6.py"
+ },
+ {
+  "task": 50,
+  "arc_id": "253bf280",
+  "baseline_points": 16.74,
+  "baseline_cost": 3852,
+  "headroom": 8.26,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_253bf280.py"
+ },
+ {
+  "task": 277,
+  "arc_id": "b230c067",
+  "baseline_points": 16.77,
+  "baseline_cost": 3744,
+  "headroom": 8.23,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_b230c067.py"
+ },
+ {
+  "task": 340,
+  "arc_id": "d687bc17",
+  "baseline_points": 16.78,
+  "baseline_cost": 3703,
+  "headroom": 8.22,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_d687bc17.py"
+ },
+ {
+  "task": 107,
+  "arc_id": "469497ad",
+  "baseline_points": 16.79,
+  "baseline_cost": 3690,
+  "headroom": 8.21,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_469497ad.py"
+ },
+ {
+  "task": 177,
+  "arc_id": "7468f01a",
+  "baseline_points": 16.81,
+  "baseline_cost": 3621,
+  "headroom": 8.19,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_7468f01a.py"
+ },
+ {
+  "task": 284,
+  "arc_id": "b7249182",
+  "baseline_points": 16.81,
+  "baseline_cost": 3619,
+  "headroom": 8.19,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_b7249182.py"
+ },
+ {
+  "task": 93,
+  "arc_id": "4093f84a",
+  "baseline_points": 16.83,
+  "baseline_cost": 3531,
+  "headroom": 8.17,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_4093f84a.py"
+ },
+ {
+  "task": 137,
+  "arc_id": "5c2c9af4",
+  "baseline_points": 16.83,
+  "baseline_cost": 3526,
+  "headroom": 8.17,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_5c2c9af4.py"
+ },
+ {
+  "task": 125,
+  "arc_id": "543a7ed5",
+  "baseline_points": 16.85,
+  "baseline_cost": 3463,
+  "headroom": 8.15,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_543a7ed5.py"
+ },
+ {
+  "task": 201,
+  "arc_id": "846bdb03",
+  "baseline_points": 16.88,
+  "baseline_cost": 3356,
+  "headroom": 8.12,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_846bdb03.py"
+ },
+ {
+  "task": 268,
+  "arc_id": "aba27056",
+  "baseline_points": 16.88,
+  "baseline_cost": 3356,
+  "headroom": 8.12,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_aba27056.py"
+ },
+ {
+  "task": 310,
+  "arc_id": "c909285e",
+  "baseline_points": 16.9,
+  "baseline_cost": 3287,
+  "headroom": 8.1,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_c909285e.py"
+ },
+ {
+  "task": 333,
+  "arc_id": "d43fd935",
+  "baseline_points": 16.92,
+  "baseline_cost": 3222,
+  "headroom": 8.08,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_d43fd935.py"
+ },
+ {
+  "task": 8,
+  "arc_id": "05f2a901",
+  "baseline_points": 16.93,
+  "baseline_cost": 3198,
+  "headroom": 8.07,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_05f2a901.py"
+ },
+ {
+  "task": 55,
+  "arc_id": "272f95fa",
+  "baseline_points": 16.95,
+  "baseline_cost": 3142,
+  "headroom": 8.05,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_272f95fa.py"
+ },
+ {
+  "task": 79,
+  "arc_id": "39a8645d",
+  "baseline_points": 16.95,
+  "baseline_cost": 3133,
+  "headroom": 8.05,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_39a8645d.py"
+ },
+ {
+  "task": 86,
+  "arc_id": "3befdf3e",
+  "baseline_points": 16.95,
+  "baseline_cost": 3136,
+  "headroom": 8.05,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_3befdf3e.py"
+ },
+ {
+  "task": 335,
+  "arc_id": "d4a91cb9",
+  "baseline_points": 16.95,
+  "baseline_cost": 3135,
+  "headroom": 8.05,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_d4a91cb9.py"
+ },
+ {
+  "task": 42,
+  "arc_id": "22233c11",
+  "baseline_points": 16.96,
+  "baseline_cost": 3110,
+  "headroom": 8.04,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_22233c11.py"
+ },
+ {
+  "task": 390,
+  "arc_id": "f8a8fe49",
+  "baseline_points": 16.96,
+  "baseline_cost": 3090,
+  "headroom": 8.04,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_f8a8fe49.py"
+ },
+ {
+  "task": 90,
+  "arc_id": "3eda0437",
+  "baseline_points": 16.97,
+  "baseline_cost": 3058,
+  "headroom": 8.03,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_3eda0437.py"
+ },
+ {
+  "task": 270,
+  "arc_id": "ae3edfdc",
+  "baseline_points": 16.97,
+  "baseline_cost": 3069,
+  "headroom": 8.03,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_ae3edfdc.py"
+ },
+ {
+  "task": 91,
+  "arc_id": "3f7978a0",
+  "baseline_points": 16.98,
+  "baseline_cost": 3028,
+  "headroom": 8.02,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_3f7978a0.py"
+ },
+ {
+  "task": 70,
+  "arc_id": "32597951",
+  "baseline_points": 16.99,
+  "baseline_cost": 3008,
+  "headroom": 8.01,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_32597951.py"
+ },
+ {
+  "task": 330,
+  "arc_id": "d2abd087",
+  "baseline_points": 16.99,
+  "baseline_cost": 3022,
+  "headroom": 8.01,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_d2abd087.py"
+ },
+ {
+  "task": 105,
+  "arc_id": "4612dd53",
+  "baseline_points": 17.01,
+  "baseline_cost": 2943,
+  "headroom": 7.99,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_4612dd53.py"
+ },
+ {
+  "task": 398,
+  "arc_id": "feca6190",
+  "baseline_points": 17.04,
+  "baseline_cost": 2855,
+  "headroom": 7.96,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_feca6190.py"
+ },
+ {
+  "task": 224,
+  "arc_id": "928ad970",
+  "baseline_points": 17.05,
+  "baseline_cost": 2831,
+  "headroom": 7.95,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_928ad970.py"
+ },
+ {
+  "task": 19,
+  "arc_id": "10fcaaa3",
+  "baseline_points": 17.07,
+  "baseline_cost": 2793,
+  "headroom": 7.93,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_10fcaaa3.py"
+ },
+ {
+  "task": 394,
+  "arc_id": "f9012d9b",
+  "baseline_points": 17.07,
+  "baseline_cost": 2780,
+  "headroom": 7.93,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_f9012d9b.py"
+ },
+ {
+  "task": 397,
+  "arc_id": "fcc82909",
+  "baseline_points": 17.07,
+  "baseline_cost": 2782,
+  "headroom": 7.93,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_fcc82909.py"
+ },
+ {
+  "task": 154,
+  "arc_id": "6855a6e4",
+  "baseline_points": 17.08,
+  "baseline_cost": 2759,
+  "headroom": 7.92,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_6855a6e4.py"
+ },
+ {
+  "task": 245,
+  "arc_id": "a1570a43",
+  "baseline_points": 17.08,
+  "baseline_cost": 2743,
+  "headroom": 7.92,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_a1570a43.py"
+ },
+ {
+  "task": 222,
+  "arc_id": "91714a58",
+  "baseline_points": 17.09,
+  "baseline_cost": 2733,
+  "headroom": 7.91,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_91714a58.py"
+ },
+ {
+  "task": 71,
+  "arc_id": "3345333e",
+  "baseline_points": 17.1,
+  "baseline_cost": 2698,
+  "headroom": 7.9,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_3345333e.py"
+ },
+ {
+  "task": 94,
+  "arc_id": "41e4d17e",
+  "baseline_points": 17.1,
+  "baseline_cost": 2709,
+  "headroom": 7.9,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_41e4d17e.py"
+ },
+ {
+  "task": 354,
+  "arc_id": "ddf7fa4f",
+  "baseline_points": 17.11,
+  "baseline_cost": 2673,
+  "headroom": 7.89,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_ddf7fa4f.py"
+ },
+ {
+  "task": 246,
+  "arc_id": "a2fd1cf0",
+  "baseline_points": 17.12,
+  "baseline_cost": 2637,
+  "headroom": 7.88,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_a2fd1cf0.py"
+ },
+ {
+  "task": 62,
+  "arc_id": "2bcee788",
+  "baseline_points": 17.16,
+  "baseline_cost": 2536,
+  "headroom": 7.84,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_2bcee788.py"
+ },
+ {
+  "task": 170,
+  "arc_id": "6ecd11f4",
+  "baseline_points": 17.16,
+  "baseline_cost": 2541,
+  "headroom": 7.84,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_6ecd11f4.py"
+ },
+ {
+  "task": 102,
+  "arc_id": "44d8ac46",
+  "baseline_points": 17.17,
+  "baseline_cost": 2527,
+  "headroom": 7.83,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_44d8ac46.py"
+ },
+ {
+  "task": 190,
+  "arc_id": "7ddcd7ec",
+  "baseline_points": 17.17,
+  "baseline_cost": 2527,
+  "headroom": 7.83,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_7ddcd7ec.py"
+ },
+ {
+  "task": 250,
+  "arc_id": "a48eeaf7",
+  "baseline_points": 17.17,
+  "baseline_cost": 2526,
+  "headroom": 7.83,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_a48eeaf7.py"
+ },
+ {
+  "task": 30,
+  "arc_id": "1caeab9d",
+  "baseline_points": 17.22,
+  "baseline_cost": 2396,
+  "headroom": 7.78,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_1caeab9d.py"
+ },
+ {
+  "task": 281,
+  "arc_id": "b548a754",
+  "baseline_points": 17.22,
+  "baseline_cost": 2386,
+  "headroom": 7.78,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_b548a754.py"
+ },
+ {
+  "task": 34,
+  "arc_id": "1f0c79e5",
+  "baseline_points": 17.23,
+  "baseline_cost": 2365,
+  "headroom": 7.77,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_1f0c79e5.py"
+ },
+ {
+  "task": 212,
+  "arc_id": "8d510a79",
+  "baseline_points": 17.23,
+  "baseline_cost": 2360,
+  "headroom": 7.77,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_8d510a79.py"
+ },
+ {
+  "task": 264,
+  "arc_id": "a8c38be5",
+  "baseline_points": 17.23,
+  "baseline_cost": 2359,
+  "headroom": 7.77,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_a8c38be5.py"
+ },
+ {
+  "task": 163,
+  "arc_id": "6d0160f0",
+  "baseline_points": 17.24,
+  "baseline_cost": 2345,
+  "headroom": 7.76,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_6d0160f0.py"
+ },
+ {
+  "task": 22,
+  "arc_id": "137eaa0f",
+  "baseline_points": 17.26,
+  "baseline_cost": 2302,
+  "headroom": 7.74,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_137eaa0f.py"
+ },
+ {
+  "task": 46,
+  "arc_id": "234bbc79",
+  "baseline_points": 17.27,
+  "baseline_cost": 2285,
+  "headroom": 7.73,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_234bbc79.py"
+ },
+ {
+  "task": 134,
+  "arc_id": "5ad4f10b",
+  "baseline_points": 17.27,
+  "baseline_cost": 2284,
+  "headroom": 7.73,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_5ad4f10b.py"
+ },
+ {
+  "task": 161,
+  "arc_id": "6cdd2623",
+  "baseline_points": 17.27,
+  "baseline_cost": 2278,
+  "headroom": 7.73,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_6cdd2623.py"
+ },
+ {
+  "task": 374,
+  "arc_id": "ea32f347",
+  "baseline_points": 17.27,
+  "baseline_cost": 2284,
+  "headroom": 7.73,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_ea32f347.py"
+ },
+ {
+  "task": 12,
+  "arc_id": "0962bcdd",
+  "baseline_points": 17.28,
+  "baseline_cost": 2259,
+  "headroom": 7.72,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_0962bcdd.py"
+ },
+ {
+  "task": 35,
+  "arc_id": "1f642eb9",
+  "baseline_points": 17.28,
+  "baseline_cost": 2249,
+  "headroom": 7.72,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_1f642eb9.py"
+ },
+ {
+  "task": 256,
+  "arc_id": "a65b410d",
+  "baseline_points": 17.28,
+  "baseline_cost": 2251,
+  "headroom": 7.72,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_a65b410d.py"
+ },
+ {
+  "task": 168,
+  "arc_id": "6e19193c",
+  "baseline_points": 17.29,
+  "baseline_cost": 2239,
+  "headroom": 7.71,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_6e19193c.py"
+ },
+ {
+  "task": 323,
+  "arc_id": "d06dbe63",
+  "baseline_points": 17.31,
+  "baseline_cost": 2177,
+  "headroom": 7.69,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_d06dbe63.py"
+ },
+ {
+  "task": 388,
+  "arc_id": "f5b8619d",
+  "baseline_points": 17.31,
+  "baseline_cost": 2190,
+  "headroom": 7.69,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_f5b8619d.py"
+ },
+ {
+  "task": 273,
+  "arc_id": "af902bf9",
+  "baseline_points": 17.32,
+  "baseline_cost": 2160,
+  "headroom": 7.68,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_af902bf9.py"
+ },
+ {
+  "task": 36,
+  "arc_id": "1f85a75f",
+  "baseline_points": 17.35,
+  "baseline_cost": 2097,
+  "headroom": 7.65,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_1f85a75f.py"
+ },
+ {
+  "task": 348,
+  "arc_id": "db3e9e38",
+  "baseline_points": 17.35,
+  "baseline_cost": 2095,
+  "headroom": 7.65,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_db3e9e38.py"
+ },
+ {
+  "task": 381,
+  "arc_id": "ef135b50",
+  "baseline_points": 17.37,
+  "baseline_cost": 2064,
+  "headroom": 7.63,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_ef135b50.py"
+ },
+ {
+  "task": 84,
+  "arc_id": "3bd67248",
+  "baseline_points": 17.38,
+  "baseline_cost": 2038,
+  "headroom": 7.62,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_3bd67248.py"
+ },
+ {
+  "task": 184,
+  "arc_id": "780d0b14",
+  "baseline_points": 17.38,
+  "baseline_cost": 2041,
+  "headroom": 7.62,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_780d0b14.py"
+ },
+ {
+  "task": 287,
+  "arc_id": "b8825c91",
+  "baseline_points": 17.4,
+  "baseline_cost": 1994,
+  "headroom": 7.6,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_b8825c91.py"
+ },
+ {
+  "task": 124,
+  "arc_id": "53b68214",
+  "baseline_points": 17.42,
+  "baseline_cost": 1953,
+  "headroom": 7.58,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_53b68214.py"
+ },
+ {
+  "task": 185,
+  "arc_id": "7837ac64",
+  "baseline_points": 17.42,
+  "baseline_cost": 1961,
+  "headroom": 7.58,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_7837ac64.py"
+ },
+ {
+  "task": 238,
+  "arc_id": "9aec4887",
+  "baseline_points": 17.43,
+  "baseline_cost": 1947,
+  "headroom": 7.57,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_9aec4887.py"
+ },
+ {
+  "task": 392,
+  "arc_id": "f8c80d96",
+  "baseline_points": 17.43,
+  "baseline_cost": 1941,
+  "headroom": 7.57,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_f8c80d96.py"
+ },
+ {
+  "task": 13,
+  "arc_id": "0a938d79",
+  "baseline_points": 17.45,
+  "baseline_cost": 1900,
+  "headroom": 7.55,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_0a938d79.py"
+ },
+ {
+  "task": 99,
+  "arc_id": "444801d8",
+  "baseline_points": 17.45,
+  "baseline_cost": 1899,
+  "headroom": 7.55,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_444801d8.py"
+ },
+ {
+  "task": 63,
+  "arc_id": "2bee17df",
+  "baseline_points": 17.47,
+  "baseline_cost": 1869,
+  "headroom": 7.53,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_2bee17df.py"
+ },
+ {
+  "task": 88,
+  "arc_id": "3de23699",
+  "baseline_points": 17.47,
+  "baseline_cost": 1872,
+  "headroom": 7.53,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_3de23699.py"
+ },
+ {
+  "task": 213,
+  "arc_id": "8e1813be",
+  "baseline_points": 17.48,
+  "baseline_cost": 1851,
+  "headroom": 7.52,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_8e1813be.py"
+ },
+ {
+  "task": 237,
+  "arc_id": "99fa7670",
+  "baseline_points": 17.48,
+  "baseline_cost": 1838,
+  "headroom": 7.52,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_99fa7670.py"
+ },
+ {
+  "task": 199,
+  "arc_id": "834ec97d",
+  "baseline_points": 17.49,
+  "baseline_cost": 1829,
+  "headroom": 7.51,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_834ec97d.py"
+ },
+ {
+  "task": 336,
+  "arc_id": "d4f3cd78",
+  "baseline_points": 17.49,
+  "baseline_cost": 1820,
+  "headroom": 7.51,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_d4f3cd78.py"
+ },
+ {
+  "task": 41,
+  "arc_id": "22168020",
+  "baseline_points": 17.51,
+  "baseline_cost": 1789,
+  "headroom": 7.49,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_22168020.py"
+ },
+ {
+  "task": 206,
+  "arc_id": "88a10436",
+  "baseline_points": 17.51,
+  "baseline_cost": 1787,
+  "headroom": 7.49,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_88a10436.py"
+ },
+ {
+  "task": 112,
+  "arc_id": "4938f0c2",
+  "baseline_points": 17.52,
+  "baseline_cost": 1770,
+  "headroom": 7.48,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_4938f0c2.py"
+ },
+ {
+  "task": 302,
+  "arc_id": "c0f76784",
+  "baseline_points": 17.52,
+  "baseline_cost": 1774,
+  "headroom": 7.48,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_c0f76784.py"
+ },
+ {
+  "task": 51,
+  "arc_id": "25d487eb",
+  "baseline_points": 17.54,
+  "baseline_cost": 1744,
+  "headroom": 7.46,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_25d487eb.py"
+ },
+ {
+  "task": 45,
+  "arc_id": "22eb0ac0",
+  "baseline_points": 17.58,
+  "baseline_cost": 1673,
+  "headroom": 7.42,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_22eb0ac0.py"
+ },
+ {
+  "task": 61,
+  "arc_id": "29ec7d0e",
+  "baseline_points": 17.58,
+  "baseline_cost": 1668,
+  "headroom": 7.42,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_29ec7d0e.py"
+ },
+ {
+  "task": 169,
+  "arc_id": "6e82a1ae",
+  "baseline_points": 17.58,
+  "baseline_cost": 1670,
+  "headroom": 7.42,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_6e82a1ae.py"
+ },
+ {
+  "task": 109,
+  "arc_id": "47c1f68c",
+  "baseline_points": 17.59,
+  "baseline_cost": 1650,
+  "headroom": 7.41,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_47c1f68c.py"
+ },
+ {
+  "task": 33,
+  "arc_id": "1e32b0e9",
+  "baseline_points": 17.6,
+  "baseline_cost": 1639,
+  "headroom": 7.4,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_1e32b0e9.py"
+ },
+ {
+  "task": 295,
+  "arc_id": "bbc9ae5d",
+  "baseline_points": 17.62,
+  "baseline_cost": 1604,
+  "headroom": 7.38,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_bbc9ae5d.py"
+ },
+ {
+  "task": 156,
+  "arc_id": "694f12f3",
+  "baseline_points": 17.64,
+  "baseline_cost": 1564,
+  "headroom": 7.36,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_694f12f3.py"
+ },
+ {
+  "task": 159,
+  "arc_id": "6b9890af",
+  "baseline_points": 17.64,
+  "baseline_cost": 1568,
+  "headroom": 7.36,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_6b9890af.py"
+ },
+ {
+  "task": 260,
+  "arc_id": "a78176bb",
+  "baseline_points": 17.64,
+  "baseline_cost": 1575,
+  "headroom": 7.36,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_a78176bb.py"
+ },
+ {
+  "task": 226,
+  "arc_id": "941d9a10",
+  "baseline_points": 17.66,
+  "baseline_cost": 1534,
+  "headroom": 7.34,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_941d9a10.py"
+ },
+ {
+  "task": 343,
+  "arc_id": "d8c310e9",
+  "baseline_points": 17.66,
+  "baseline_cost": 1544,
+  "headroom": 7.34,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_d8c310e9.py"
+ },
+ {
+  "task": 345,
+  "arc_id": "d9f24cd1",
+  "baseline_points": 17.69,
+  "baseline_cost": 1495,
+  "headroom": 7.31,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_d9f24cd1.py"
+ },
+ {
+  "task": 75,
+  "arc_id": "363442ee",
+  "baseline_points": 17.7,
+  "baseline_cost": 1487,
+  "headroom": 7.3,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_363442ee.py"
+ },
+ {
+  "task": 240,
+  "arc_id": "9d9215db",
+  "baseline_points": 17.7,
+  "baseline_cost": 1475,
+  "headroom": 7.3,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_9d9215db.py"
+ },
+ {
+  "task": 325,
+  "arc_id": "d0f5fe59",
+  "baseline_points": 17.7,
+  "baseline_cost": 1483,
+  "headroom": 7.3,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_d0f5fe59.py"
+ },
+ {
+  "task": 11,
+  "arc_id": "09629e4f",
+  "baseline_points": 17.71,
+  "baseline_cost": 1460,
+  "headroom": 7.29,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_09629e4f.py"
+ },
+ {
+  "task": 217,
+  "arc_id": "8f2ea7aa",
+  "baseline_points": 17.71,
+  "baseline_cost": 1470,
+  "headroom": 7.29,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_8f2ea7aa.py"
+ },
+ {
+  "task": 308,
+  "arc_id": "c8cbb738",
+  "baseline_points": 17.71,
+  "baseline_cost": 1468,
+  "headroom": 7.29,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_c8cbb738.py"
+ },
+ {
+  "task": 303,
+  "arc_id": "c1d99e64",
+  "baseline_points": 17.72,
+  "baseline_cost": 1450,
+  "headroom": 7.28,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_c1d99e64.py"
+ },
+ {
+  "task": 304,
+  "arc_id": "c3e719e8",
+  "baseline_points": 17.73,
+  "baseline_cost": 1441,
+  "headroom": 7.27,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_c3e719e8.py"
+ },
+ {
+  "task": 341,
+  "arc_id": "d6ad076f",
+  "baseline_points": 17.74,
+  "baseline_cost": 1429,
+  "headroom": 7.26,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_d6ad076f.py"
+ },
+ {
+  "task": 232,
+  "arc_id": "97999447",
+  "baseline_points": 17.75,
+  "baseline_cost": 1410,
+  "headroom": 7.25,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_97999447.py"
+ },
+ {
+  "task": 297,
+  "arc_id": "bd4472b8",
+  "baseline_points": 17.76,
+  "baseline_cost": 1389,
+  "headroom": 7.24,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_bd4472b8.py"
+ },
+ {
+  "task": 369,
+  "arc_id": "e8593010",
+  "baseline_points": 17.76,
+  "baseline_cost": 1393,
+  "headroom": 7.24,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_e8593010.py"
+ },
+ {
+  "task": 141,
+  "arc_id": "623ea044",
+  "baseline_points": 17.77,
+  "baseline_cost": 1383,
+  "headroom": 7.23,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_623ea044.py"
+ },
+ {
+  "task": 119,
+  "arc_id": "508bd3b6",
+  "baseline_points": 17.78,
+  "baseline_cost": 1363,
+  "headroom": 7.22,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_508bd3b6.py"
+ },
+ {
+  "task": 275,
+  "arc_id": "b190f7f5",
+  "baseline_points": 17.79,
+  "baseline_cost": 1356,
+  "headroom": 7.21,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_b190f7f5.py"
+ },
+ {
+  "task": 20,
+  "arc_id": "11852cab",
+  "baseline_points": 17.8,
+  "baseline_cost": 1346,
+  "headroom": 7.2,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_11852cab.py"
+ },
+ {
+  "task": 123,
+  "arc_id": "539a4f51",
+  "baseline_points": 17.8,
+  "baseline_cost": 1342,
+  "headroom": 7.2,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_539a4f51.py"
+ },
+ {
+  "task": 160,
+  "arc_id": "6c434453",
+  "baseline_points": 17.8,
+  "baseline_cost": 1334,
+  "headroom": 7.2,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_6c434453.py"
+ },
+ {
+  "task": 27,
+  "arc_id": "1b60fb0c",
+  "baseline_points": 17.82,
+  "baseline_cost": 1310,
+  "headroom": 7.18,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_1b60fb0c.py"
+ },
+ {
+  "task": 356,
+  "arc_id": "ded97339",
+  "baseline_points": 17.82,
+  "baseline_cost": 1319,
+  "headroom": 7.18,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_ded97339.py"
+ },
+ {
+  "task": 78,
+  "arc_id": "3906de3d",
+  "baseline_points": 17.84,
+  "baseline_cost": 1293,
+  "headroom": 7.16,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_3906de3d.py"
+ },
+ {
+  "task": 175,
+  "arc_id": "73251a56",
+  "baseline_points": 17.87,
+  "baseline_cost": 1255,
+  "headroom": 7.13,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_73251a56.py"
+ },
+ {
+  "task": 346,
+  "arc_id": "d9fac9be",
+  "baseline_points": 17.87,
+  "baseline_cost": 1254,
+  "headroom": 7.13,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_d9fac9be.py"
+ },
+ {
+  "task": 351,
+  "arc_id": "dc0a314f",
+  "baseline_points": 17.89,
+  "baseline_cost": 1230,
+  "headroom": 7.11,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_dc0a314f.py"
+ },
+ {
+  "task": 400,
+  "arc_id": "ff805c23",
+  "baseline_points": 17.9,
+  "baseline_cost": 1213,
+  "headroom": 7.1,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_ff805c23.py"
+ },
+ {
+  "task": 136,
+  "arc_id": "5c0a986e",
+  "baseline_points": 17.91,
+  "baseline_cost": 1194,
+  "headroom": 7.09,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_5c0a986e.py"
+ },
+ {
+  "task": 197,
+  "arc_id": "82819916",
+  "baseline_points": 17.91,
+  "baseline_cost": 1201,
+  "headroom": 7.09,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_82819916.py"
+ },
+ {
+  "task": 271,
+  "arc_id": "ae4f1146",
+  "baseline_points": 17.92,
+  "baseline_cost": 1187,
+  "headroom": 7.08,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_ae4f1146.py"
+ },
+ {
+  "task": 244,
+  "arc_id": "9f236235",
+  "baseline_points": 17.93,
+  "baseline_cost": 1179,
+  "headroom": 7.07,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_9f236235.py"
+ },
+ {
+  "task": 301,
+  "arc_id": "beb8660c",
+  "baseline_points": 17.96,
+  "baseline_cost": 1141,
+  "headroom": 7.04,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_beb8660c.py"
+ },
+ {
+  "task": 342,
+  "arc_id": "d89b689b",
+  "baseline_points": 18.01,
+  "baseline_cost": 1084,
+  "headroom": 6.99,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_d89b689b.py"
+ },
+ {
+  "task": 329,
+  "arc_id": "d23f8c26",
+  "baseline_points": 18.03,
+  "baseline_cost": 1059,
+  "headroom": 6.97,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_d23f8c26.py"
+ },
+ {
+  "task": 115,
+  "arc_id": "4be741c5",
+  "baseline_points": 18.05,
+  "baseline_cost": 1043,
+  "headroom": 6.95,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_4be741c5.py"
+ },
+ {
+  "task": 293,
+  "arc_id": "ba97ae07",
+  "baseline_points": 18.05,
+  "baseline_cost": 1043,
+  "headroom": 6.95,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_ba97ae07.py"
+ },
+ {
+  "task": 58,
+  "arc_id": "28e73c20",
+  "baseline_points": 18.06,
+  "baseline_cost": 1033,
+  "headroom": 6.94,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_28e73c20.py"
+ },
+ {
+  "task": 225,
+  "arc_id": "93b581b8",
+  "baseline_points": 18.06,
+  "baseline_cost": 1033,
+  "headroom": 6.94,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_93b581b8.py"
+ },
+ {
+  "task": 183,
+  "arc_id": "77fdfe62",
+  "baseline_points": 18.07,
+  "baseline_cost": 1025,
+  "headroom": 6.93,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_77fdfe62.py"
+ },
+ {
+  "task": 10,
+  "arc_id": "08ed6ac7",
+  "baseline_points": 18.08,
+  "baseline_cost": 1011,
+  "headroom": 6.92,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_08ed6ac7.py"
+ },
+ {
+  "task": 60,
+  "arc_id": "29c11459",
+  "baseline_points": 18.08,
+  "baseline_cost": 1010,
+  "headroom": 6.92,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_29c11459.py"
+ },
+ {
+  "task": 228,
+  "arc_id": "952a094c",
+  "baseline_points": 18.13,
+  "baseline_cost": 962,
+  "headroom": 6.87,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_952a094c.py"
+ },
+ {
+  "task": 194,
+  "arc_id": "7fe24cdd",
+  "baseline_points": 18.14,
+  "baseline_cost": 949,
+  "headroom": 6.86,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_7fe24cdd.py"
+ },
+ {
+  "task": 288,
+  "arc_id": "b8cdaf2b",
+  "baseline_points": 18.14,
+  "baseline_cost": 958,
+  "headroom": 6.86,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_b8cdaf2b.py"
+ },
+ {
+  "task": 239,
+  "arc_id": "9af7a82c",
+  "baseline_points": 18.15,
+  "baseline_cost": 947,
+  "headroom": 6.85,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_9af7a82c.py"
+ },
+ {
+  "task": 195,
+  "arc_id": "80af3007",
+  "baseline_points": 18.17,
+  "baseline_cost": 921,
+  "headroom": 6.83,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_80af3007.py"
+ },
+ {
+  "task": 189,
+  "arc_id": "7c008303",
+  "baseline_points": 18.18,
+  "baseline_cost": 913,
+  "headroom": 6.82,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_7c008303.py"
+ },
+ {
+  "task": 32,
+  "arc_id": "1e0a9b12",
+  "baseline_points": 18.19,
+  "baseline_cost": 910,
+  "headroom": 6.81,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_1e0a9b12.py"
+ },
+ {
+  "task": 97,
+  "arc_id": "42a50994",
+  "baseline_points": 18.19,
+  "baseline_cost": 910,
+  "headroom": 6.81,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_42a50994.py"
+ },
+ {
+  "task": 120,
+  "arc_id": "50cb2852",
+  "baseline_points": 18.19,
+  "baseline_cost": 910,
+  "headroom": 6.81,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_50cb2852.py"
+ },
+ {
+  "task": 139,
+  "arc_id": "60b61512",
+  "baseline_points": 18.19,
+  "baseline_cost": 904,
+  "headroom": 6.81,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_60b61512.py"
+ },
+ {
+  "task": 193,
+  "arc_id": "7f4411dc",
+  "baseline_points": 18.19,
+  "baseline_cost": 910,
+  "headroom": 6.81,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_7f4411dc.py"
+ },
+ {
+  "task": 283,
+  "arc_id": "b6afb2da",
+  "baseline_points": 18.19,
+  "baseline_cost": 910,
+  "headroom": 6.81,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_b6afb2da.py"
+ },
+ {
+  "task": 294,
+  "arc_id": "bb43febb",
+  "baseline_points": 18.19,
+  "baseline_cost": 910,
+  "headroom": 6.81,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_bb43febb.py"
+ },
+ {
+  "task": 331,
+  "arc_id": "d364b489",
+  "baseline_points": 18.19,
+  "baseline_cost": 910,
+  "headroom": 6.81,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_d364b489.py"
+ },
+ {
+  "task": 344,
+  "arc_id": "d90796e8",
+  "baseline_points": 18.19,
+  "baseline_cost": 910,
+  "headroom": 6.81,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_d90796e8.py"
+ },
+ {
+  "task": 15,
+  "arc_id": "0ca9ddb6",
+  "baseline_points": 18.2,
+  "baseline_cost": 900,
+  "headroom": 6.8,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_0ca9ddb6.py"
+ },
+ {
+  "task": 98,
+  "arc_id": "4347f46a",
+  "baseline_points": 18.2,
+  "baseline_cost": 900,
+  "headroom": 6.8,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_4347f46a.py"
+ },
+ {
+  "task": 114,
+  "arc_id": "49d1d64f",
+  "baseline_points": 18.2,
+  "baseline_cost": 900,
+  "headroom": 6.8,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_49d1d64f.py"
+ },
+ {
+  "task": 151,
+  "arc_id": "67a423a3",
+  "baseline_points": 18.2,
+  "baseline_cost": 900,
+  "headroom": 6.8,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_67a423a3.py"
+ },
+ {
+  "task": 220,
+  "arc_id": "913fb3ed",
+  "baseline_points": 18.2,
+  "baseline_cost": 900,
+  "headroom": 6.8,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_913fb3ed.py"
+ },
+ {
+  "task": 230,
+  "arc_id": "95990924",
+  "baseline_points": 18.2,
+  "baseline_cost": 900,
+  "headroom": 6.8,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_95990924.py"
+ },
+ {
+  "task": 259,
+  "arc_id": "a740d043",
+  "baseline_points": 18.2,
+  "baseline_cost": 894,
+  "headroom": 6.8,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_a740d043.py"
+ },
+ {
+  "task": 47,
+  "arc_id": "23581191",
+  "baseline_points": 18.24,
+  "baseline_cost": 862,
+  "headroom": 6.76,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_23581191.py"
+ },
+ {
+  "task": 143,
+  "arc_id": "63613498",
+  "baseline_points": 18.27,
+  "baseline_cost": 837,
+  "headroom": 6.73,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_63613498.py"
+ },
+ {
+  "task": 122,
+  "arc_id": "5168d44c",
+  "baseline_points": 18.3,
+  "baseline_cost": 810,
+  "headroom": 6.7,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_5168d44c.py"
+ },
+ {
+  "task": 48,
+  "arc_id": "239be575",
+  "baseline_points": 18.31,
+  "baseline_cost": 804,
+  "headroom": 6.69,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_239be575.py"
+ },
+ {
+  "task": 221,
+  "arc_id": "91413438",
+  "baseline_points": 18.31,
+  "baseline_cost": 805,
+  "headroom": 6.69,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_91413438.py"
+ },
+ {
+  "task": 43,
+  "arc_id": "2281f1f4",
+  "baseline_points": 18.32,
+  "baseline_cost": 793,
+  "headroom": 6.68,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_2281f1f4.py"
+ },
+ {
+  "task": 153,
+  "arc_id": "681b3aeb",
+  "baseline_points": 18.32,
+  "baseline_cost": 795,
+  "headroom": 6.68,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_681b3aeb.py"
+ },
+ {
+  "task": 320,
+  "arc_id": "ce9e57f2",
+  "baseline_points": 18.35,
+  "baseline_cost": 770,
+  "headroom": 6.65,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_ce9e57f2.py"
+ },
+ {
+  "task": 178,
+  "arc_id": "746b3537",
+  "baseline_points": 18.36,
+  "baseline_cost": 763,
+  "headroom": 6.64,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_746b3537.py"
+ },
+ {
+  "task": 188,
+  "arc_id": "7b7f7511",
+  "baseline_points": 18.36,
+  "baseline_cost": 764,
+  "headroom": 6.64,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_7b7f7511.py"
+ },
+ {
+  "task": 267,
+  "arc_id": "aabf363d",
+  "baseline_points": 18.36,
+  "baseline_cost": 766,
+  "headroom": 6.64,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_aabf363d.py"
+ },
+ {
+  "task": 171,
+  "arc_id": "6f8cd79b",
+  "baseline_points": 18.37,
+  "baseline_cost": 759,
+  "headroom": 6.63,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_6f8cd79b.py"
+ },
+ {
+  "task": 200,
+  "arc_id": "8403a5d5",
+  "baseline_points": 18.37,
+  "baseline_cost": 756,
+  "headroom": 6.63,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_8403a5d5.py"
+ },
+ {
+  "task": 215,
+  "arc_id": "8eb1be9a",
+  "baseline_points": 18.39,
+  "baseline_cost": 739,
+  "headroom": 6.61,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_8eb1be9a.py"
+ },
+ {
+  "task": 289,
+  "arc_id": "b91ae062",
+  "baseline_points": 18.39,
+  "baseline_cost": 742,
+  "headroom": 6.61,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_b91ae062.py"
+ },
+ {
+  "task": 372,
+  "arc_id": "e98196ab",
+  "baseline_points": 18.43,
+  "baseline_cost": 710,
+  "headroom": 6.57,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_e98196ab.py"
+ },
+ {
+  "task": 269,
+  "arc_id": "ac0a08a4",
+  "baseline_points": 18.44,
+  "baseline_cost": 709,
+  "headroom": 6.56,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_ac0a08a4.py"
+ },
+ {
+  "task": 31,
+  "arc_id": "1cf80156",
+  "baseline_points": 18.47,
+  "baseline_cost": 688,
+  "headroom": 6.53,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_1cf80156.py"
+ },
+ {
+  "task": 254,
+  "arc_id": "a61f2674",
+  "baseline_points": 18.47,
+  "baseline_cost": 687,
+  "headroom": 6.53,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_a61f2674.py"
+ },
+ {
+  "task": 263,
+  "arc_id": "a87f7484",
+  "baseline_points": 18.49,
+  "baseline_cost": 670,
+  "headroom": 6.51,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_a87f7484.py"
+ },
+ {
+  "task": 57,
+  "arc_id": "28bf18c6",
+  "baseline_points": 18.5,
+  "baseline_cost": 668,
+  "headroom": 6.5,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_28bf18c6.py"
+ },
+ {
+  "task": 218,
+  "arc_id": "90c28cc7",
+  "baseline_points": 18.52,
+  "baseline_cost": 649,
+  "headroom": 6.48,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_90c28cc7.py"
+ },
+ {
+  "task": 65,
+  "arc_id": "2dc579da",
+  "baseline_points": 18.54,
+  "baseline_cost": 641,
+  "headroom": 6.46,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_2dc579da.py"
+ },
+ {
+  "task": 305,
+  "arc_id": "c3f564a4",
+  "baseline_points": 18.54,
+  "baseline_cost": 636,
+  "headroom": 6.46,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_c3f564a4.py"
+ },
+ {
+  "task": 327,
+  "arc_id": "d13f3404",
+  "baseline_points": 18.54,
+  "baseline_cost": 640,
+  "headroom": 6.46,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_d13f3404.py"
+ },
+ {
+  "task": 106,
+  "arc_id": "46442a0e",
+  "baseline_points": 18.56,
+  "baseline_cost": 626,
+  "headroom": 6.44,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_46442a0e.py"
+ },
+ {
+  "task": 68,
+  "arc_id": "31aa019c",
+  "baseline_points": 18.57,
+  "baseline_cost": 623,
+  "headroom": 6.43,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_31aa019c.py"
+ },
+ {
+  "task": 126,
+  "arc_id": "54d82841",
+  "baseline_points": 18.59,
+  "baseline_cost": 605,
+  "headroom": 6.41,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_54d82841.py"
+ },
+ {
+  "task": 332,
+  "arc_id": "d406998b",
+  "baseline_points": 18.67,
+  "baseline_cost": 561,
+  "headroom": 6.33,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_d406998b.py"
+ },
+ {
+  "task": 59,
+  "arc_id": "29623171",
+  "baseline_points": 18.69,
+  "baseline_cost": 549,
+  "headroom": 6.31,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_29623171.py"
+ },
+ {
+  "task": 355,
+  "arc_id": "de1cd16c",
+  "baseline_points": 18.71,
+  "baseline_cost": 539,
+  "headroom": 6.29,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_de1cd16c.py"
+ },
+ {
+  "task": 147,
+  "arc_id": "67385a82",
+  "baseline_points": 18.72,
+  "baseline_cost": 532,
+  "headroom": 6.28,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_67385a82.py"
+ },
+ {
+  "task": 300,
+  "arc_id": "be94b721",
+  "baseline_points": 18.73,
+  "baseline_cost": 528,
+  "headroom": 6.27,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_be94b721.py"
+ },
+ {
+  "task": 214,
+  "arc_id": "8e5a5113",
+  "baseline_points": 18.74,
+  "baseline_cost": 525,
+  "headroom": 6.26,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_8e5a5113.py"
+ },
+ {
+  "task": 362,
+  "arc_id": "e48d4e1a",
+  "baseline_points": 18.74,
+  "baseline_cost": 521,
+  "headroom": 6.26,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_e48d4e1a.py"
+ },
+ {
+  "task": 253,
+  "arc_id": "a61ba2ce",
+  "baseline_points": 18.79,
+  "baseline_cost": 500,
+  "headroom": 6.21,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_a61ba2ce.py"
+ },
+ {
+  "task": 384,
+  "arc_id": "f25fbde4",
+  "baseline_points": 18.82,
+  "baseline_cost": 481,
+  "headroom": 6.18,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_f25fbde4.py"
+ },
+ {
+  "task": 247,
+  "arc_id": "a3325580",
+  "baseline_points": 18.85,
+  "baseline_cost": 469,
+  "headroom": 6.15,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_a3325580.py"
+ },
+ {
+  "task": 371,
+  "arc_id": "e9614598",
+  "baseline_points": 18.85,
+  "baseline_cost": 467,
+  "headroom": 6.15,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_e9614598.py"
+ },
+ {
+  "task": 81,
+  "arc_id": "3aa6fb7a",
+  "baseline_points": 18.86,
+  "baseline_cost": 464,
+  "headroom": 6.14,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_3aa6fb7a.py"
+ },
+ {
+  "task": 39,
+  "arc_id": "2013d3e2",
+  "baseline_points": 18.88,
+  "baseline_cost": 455,
+  "headroom": 6.12,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_2013d3e2.py"
+ },
+ {
+  "task": 1,
+  "arc_id": "007bbfb7",
+  "baseline_points": 18.9,
+  "baseline_cost": 445,
+  "headroom": 6.1,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_007bbfb7.py"
+ },
+ {
+  "task": 282,
+  "arc_id": "b60334d2",
+  "baseline_points": 18.9,
+  "baseline_cost": 446,
+  "headroom": 6.1,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_b60334d2.py"
+ },
+ {
+  "task": 242,
+  "arc_id": "9ecd008a",
+  "baseline_points": 18.93,
+  "baseline_cost": 432,
+  "headroom": 6.07,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_9ecd008a.py"
+ },
+ {
+  "task": 316,
+  "arc_id": "cdecee7f",
+  "baseline_points": 18.95,
+  "baseline_cost": 426,
+  "headroom": 6.05,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_cdecee7f.py"
+ },
+ {
+  "task": 72,
+  "arc_id": "3428a4f5",
+  "baseline_points": 18.96,
+  "baseline_cost": 421,
+  "headroom": 6.04,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_3428a4f5.py"
+ },
+ {
+  "task": 272,
+  "arc_id": "aedd82e4",
+  "baseline_points": 19.0,
+  "baseline_cost": 402,
+  "headroom": 6.0,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_aedd82e4.py"
+ },
+ {
+  "task": 257,
+  "arc_id": "a68b268e",
+  "baseline_points": 19.01,
+  "baseline_cost": 400,
+  "headroom": 5.99,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_a68b268e.py"
+ },
+ {
+  "task": 127,
+  "arc_id": "54d9e175",
+  "baseline_points": 19.02,
+  "baseline_cost": 396,
+  "headroom": 5.98,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_54d9e175.py"
+ },
+ {
+  "task": 181,
+  "arc_id": "760b3cac",
+  "baseline_points": 19.09,
+  "baseline_cost": 368,
+  "headroom": 5.91,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_760b3cac.py"
+ },
+ {
+  "task": 100,
+  "arc_id": "445eab21",
+  "baseline_points": 19.11,
+  "baseline_cost": 361,
+  "headroom": 5.89,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_445eab21.py"
+ },
+ {
+  "task": 203,
+  "arc_id": "85c4e7cd",
+  "baseline_points": 19.13,
+  "baseline_cost": 355,
+  "headroom": 5.87,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_85c4e7cd.py"
+ },
+ {
+  "task": 290,
+  "arc_id": "b94a9452",
+  "baseline_points": 19.13,
+  "baseline_cost": 355,
+  "headroom": 5.87,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_b94a9452.py"
+ },
+ {
+  "task": 49,
+  "arc_id": "23b5c85d",
+  "baseline_points": 19.16,
+  "baseline_cost": 345,
+  "headroom": 5.84,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_23b5c85d.py"
+ },
+ {
+  "task": 95,
+  "arc_id": "4258a5f9",
+  "baseline_points": 19.16,
+  "baseline_cost": 345,
+  "headroom": 5.84,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_4258a5f9.py"
+ },
+ {
+  "task": 360,
+  "arc_id": "e3497940",
+  "baseline_points": 19.17,
+  "baseline_cost": 340,
+  "headroom": 5.83,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_e3497940.py"
+ },
+ {
+  "task": 121,
+  "arc_id": "5117e062",
+  "baseline_points": 19.21,
+  "baseline_cost": 328,
+  "headroom": 5.79,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_5117e062.py"
+ },
+ {
+  "task": 375,
+  "arc_id": "ea786f4a",
+  "baseline_points": 19.21,
+  "baseline_cost": 327,
+  "headroom": 5.79,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_ea786f4a.py"
+ },
+ {
+  "task": 21,
+  "arc_id": "1190e5a7",
+  "baseline_points": 19.22,
+  "baseline_cost": 324,
+  "headroom": 5.78,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_1190e5a7.py"
+ },
+ {
+  "task": 296,
+  "arc_id": "bc1d5164",
+  "baseline_points": 19.25,
+  "baseline_cost": 314,
+  "headroom": 5.75,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_bc1d5164.py"
+ },
+ {
+  "task": 111,
+  "arc_id": "48d8fb45",
+  "baseline_points": 19.26,
+  "baseline_cost": 311,
+  "headroom": 5.74,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_48d8fb45.py"
+ },
+ {
+  "task": 266,
+  "arc_id": "a9f96cdd",
+  "baseline_points": 19.26,
+  "baseline_cost": 311,
+  "headroom": 5.74,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_a9f96cdd.py"
+ },
+ {
+  "task": 108,
+  "arc_id": "46f33fce",
+  "baseline_points": 19.3,
+  "baseline_cost": 300,
+  "headroom": 5.7,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_46f33fce.py"
+ },
+ {
+  "task": 306,
+  "arc_id": "c444b776",
+  "baseline_points": 19.3,
+  "baseline_cost": 300,
+  "headroom": 5.7,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_c444b776.py"
+ },
+ {
+  "task": 321,
+  "arc_id": "cf98881b",
+  "baseline_points": 19.3,
+  "baseline_cost": 300,
+  "headroom": 5.7,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_cf98881b.py"
+ },
+ {
+  "task": 357,
+  "arc_id": "e179c5f4",
+  "baseline_points": 19.33,
+  "baseline_cost": 291,
+  "headroom": 5.67,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_e179c5f4.py"
+ },
+ {
+  "task": 211,
+  "arc_id": "8d5021e8",
+  "baseline_points": 19.4,
+  "baseline_cost": 270,
+  "headroom": 5.6,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_8d5021e8.py"
+ },
+ {
+  "task": 146,
+  "arc_id": "662c240a",
+  "baseline_points": 19.41,
+  "baseline_cost": 267,
+  "headroom": 5.59,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_662c240a.py"
+ },
+ {
+  "task": 3,
+  "arc_id": "017c7c7b",
+  "baseline_points": 19.44,
+  "baseline_cost": 261,
+  "headroom": 5.56,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_017c7c7b.py"
+ },
+ {
+  "task": 249,
+  "arc_id": "a416b8f3",
+  "baseline_points": 19.44,
+  "baseline_cost": 261,
+  "headroom": 5.56,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_a416b8f3.py"
+ },
+ {
+  "task": 353,
+  "arc_id": "dc433765",
+  "baseline_points": 19.5,
+  "baseline_cost": 244,
+  "headroom": 5.5,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_dc433765.py"
+ },
+ {
+  "task": 104,
+  "arc_id": "4522001f",
+  "baseline_points": 19.53,
+  "baseline_cost": 238,
+  "headroom": 5.47,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_4522001f.py"
+ },
+ {
+  "task": 207,
+  "arc_id": "88a62173",
+  "baseline_points": 19.54,
+  "baseline_cost": 236,
+  "headroom": 5.46,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_88a62173.py"
+ },
+ {
+  "task": 315,
+  "arc_id": "cce03e0d",
+  "baseline_points": 19.56,
+  "baseline_cost": 230,
+  "headroom": 5.44,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_cce03e0d.py"
+ },
+ {
+  "task": 231,
+  "arc_id": "963e52fc",
+  "baseline_points": 19.61,
+  "baseline_cost": 219,
+  "headroom": 5.39,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_963e52fc.py"
+ },
+ {
+  "task": 38,
+  "arc_id": "1fad071e",
+  "baseline_points": 19.64,
+  "baseline_cost": 213,
+  "headroom": 5.36,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_1fad071e.py"
+ },
+ {
+  "task": 83,
+  "arc_id": "3af2c5a8",
+  "baseline_points": 19.65,
+  "baseline_cost": 210,
+  "headroom": 5.35,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_3af2c5a8.py"
+ },
+ {
+  "task": 176,
+  "arc_id": "7447852a",
+  "baseline_points": 19.65,
+  "baseline_cost": 210,
+  "headroom": 5.35,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_7447852a.py"
+ },
+ {
+  "task": 180,
+  "arc_id": "75b8110e",
+  "baseline_points": 19.65,
+  "baseline_cost": 210,
+  "headroom": 5.35,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_75b8110e.py"
+ },
+ {
+  "task": 386,
+  "arc_id": "f2829549",
+  "baseline_points": 19.65,
+  "baseline_cost": 211,
+  "headroom": 5.35,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_f2829549.py"
+ },
+ {
+  "task": 26,
+  "arc_id": "1b2d62fb",
+  "baseline_points": 19.7,
+  "baseline_cost": 200,
+  "headroom": 5.3,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_1b2d62fb.py"
+ },
+ {
+  "task": 135,
+  "arc_id": "5bd6f4ac",
+  "baseline_points": 19.7,
+  "baseline_cost": 200,
+  "headroom": 5.3,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_5bd6f4ac.py"
+ },
+ {
+  "task": 229,
+  "arc_id": "9565186b",
+  "baseline_points": 19.7,
+  "baseline_cost": 200,
+  "headroom": 5.3,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_9565186b.py"
+ },
+ {
+  "task": 261,
+  "arc_id": "a79310a0",
+  "baseline_points": 19.7,
+  "baseline_cost": 200,
+  "headroom": 5.3,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_a79310a0.py"
+ },
+ {
+  "task": 322,
+  "arc_id": "d037b0a7",
+  "baseline_points": 19.7,
+  "baseline_cost": 200,
+  "headroom": 5.3,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_d037b0a7.py"
+ },
+ {
+  "task": 334,
+  "arc_id": "d4469b4b",
+  "baseline_points": 19.72,
+  "baseline_cost": 196,
+  "headroom": 5.28,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_d4469b4b.py"
+ },
+ {
+  "task": 52,
+  "arc_id": "25d8a9c8",
+  "baseline_points": 19.73,
+  "baseline_cost": 194,
+  "headroom": 5.27,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_25d8a9c8.py"
+ },
+ {
+  "task": 40,
+  "arc_id": "2204b7a8",
+  "baseline_points": 19.75,
+  "baseline_cost": 190,
+  "headroom": 5.25,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_2204b7a8.py"
+ },
+ {
+  "task": 82,
+  "arc_id": "3ac3eb23",
+  "baseline_points": 19.75,
+  "baseline_cost": 190,
+  "headroom": 5.25,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_3ac3eb23.py"
+ },
+ {
+  "task": 313,
+  "arc_id": "caa06a1f",
+  "baseline_points": 19.76,
+  "baseline_cost": 188,
+  "headroom": 5.24,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_caa06a1f.py"
+ },
+ {
+  "task": 376,
+  "arc_id": "eb281b96",
+  "baseline_points": 19.77,
+  "baseline_cost": 186,
+  "headroom": 5.23,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_eb281b96.py"
+ },
+ {
+  "task": 252,
+  "arc_id": "a5f85a15",
+  "baseline_points": 19.81,
+  "baseline_cost": 180,
+  "headroom": 5.19,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_a5f85a15.py"
+ },
+ {
+  "task": 274,
+  "arc_id": "b0c4d837",
+  "baseline_points": 19.84,
+  "baseline_cost": 175,
+  "headroom": 5.16,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_b0c4d837.py"
+ },
+ {
+  "task": 235,
+  "arc_id": "995c5fa3",
+  "baseline_points": 19.86,
+  "baseline_cost": 170,
+  "headroom": 5.14,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_995c5fa3.py"
+ },
+ {
+  "task": 28,
+  "arc_id": "1bfc4729",
+  "baseline_points": 19.88,
+  "baseline_cost": 168,
+  "headroom": 5.12,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_1bfc4729.py"
+ },
+ {
+  "task": 395,
+  "arc_id": "fafffa47",
+  "baseline_points": 19.89,
+  "baseline_cost": 165,
+  "headroom": 5.11,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_fafffa47.py"
+ },
+ {
+  "task": 258,
+  "arc_id": "a699fb00",
+  "baseline_points": 19.92,
+  "baseline_cost": 160,
+  "headroom": 5.08,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_a699fb00.py"
+ },
+ {
+  "task": 391,
+  "arc_id": "f8b3ba0a",
+  "baseline_points": 19.93,
+  "baseline_cost": 159,
+  "headroom": 5.07,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_f8b3ba0a.py"
+ },
+ {
+  "task": 6,
+  "arc_id": "0520fde7",
+  "baseline_points": 19.97,
+  "baseline_cost": 153,
+  "headroom": 5.03,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_0520fde7.py"
+ },
+ {
+  "task": 248,
+  "arc_id": "a3df8b1e",
+  "baseline_points": 19.98,
+  "baseline_cost": 151,
+  "headroom": 5.02,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_a3df8b1e.py"
+ },
+ {
+  "task": 167,
+  "arc_id": "6e02f1e3",
+  "baseline_points": 20.02,
+  "baseline_cost": 146,
+  "headroom": 4.98,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_6e02f1e3.py"
+ },
+ {
+  "task": 317,
+  "arc_id": "ce22a75a",
+  "baseline_points": 20.02,
+  "baseline_cost": 146,
+  "headroom": 4.98,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_ce22a75a.py"
+ },
+ {
+  "task": 393,
+  "arc_id": "f8ff0b80",
+  "baseline_points": 20.03,
+  "baseline_cost": 144,
+  "headroom": 4.97,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_f8ff0b80.py"
+ },
+ {
+  "task": 347,
+  "arc_id": "dae9d2b5",
+  "baseline_points": 20.04,
+  "baseline_cost": 143,
+  "headroom": 4.96,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_dae9d2b5.py"
+ },
+ {
+  "task": 339,
+  "arc_id": "d631b094",
+  "baseline_points": 20.06,
+  "baseline_cost": 140,
+  "headroom": 4.94,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_d631b094.py"
+ },
+ {
+  "task": 150,
+  "arc_id": "67a3c6ac",
+  "baseline_points": 20.07,
+  "baseline_cost": 138,
+  "headroom": 4.93,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_67a3c6ac.py"
+ },
+ {
+  "task": 155,
+  "arc_id": "68b16354",
+  "baseline_points": 20.07,
+  "baseline_cost": 138,
+  "headroom": 4.93,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_68b16354.py"
+ },
+ {
+  "task": 128,
+  "arc_id": "5521c0d9",
+  "baseline_points": 20.09,
+  "baseline_cost": 136,
+  "headroom": 4.91,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_5521c0d9.py"
+ },
+ {
+  "task": 149,
+  "arc_id": "6773b310",
+  "baseline_points": 20.09,
+  "baseline_cost": 136,
+  "headroom": 4.91,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_6773b310.py"
+ },
+ {
+  "task": 298,
+  "arc_id": "bda2d7a6",
+  "baseline_points": 20.09,
+  "baseline_cost": 135,
+  "headroom": 4.91,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_bda2d7a6.py"
+ },
+ {
+  "task": 389,
+  "arc_id": "f76d97a5",
+  "baseline_points": 20.13,
+  "baseline_cost": 130,
+  "headroom": 4.87,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_f76d97a5.py"
+ },
+ {
+  "task": 7,
+  "arc_id": "05269061",
+  "baseline_points": 20.16,
+  "baseline_cost": 127,
+  "headroom": 4.84,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_05269061.py"
+ },
+ {
+  "task": 236,
+  "arc_id": "99b1bc43",
+  "baseline_points": 20.16,
+  "baseline_cost": 126,
+  "headroom": 4.84,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_99b1bc43.py"
+ },
+ {
+  "task": 24,
+  "arc_id": "178fcbfb",
+  "baseline_points": 20.3,
+  "baseline_cost": 110,
+  "headroom": 4.7,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_178fcbfb.py"
+ },
+ {
+  "task": 262,
+  "arc_id": "a85d4709",
+  "baseline_points": 20.34,
+  "baseline_cost": 106,
+  "headroom": 4.66,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_a85d4709.py"
+ },
+ {
+  "task": 144,
+  "arc_id": "6430c8c4",
+  "baseline_points": 20.36,
+  "baseline_cost": 104,
+  "headroom": 4.64,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_6430c8c4.py"
+ },
+ {
+  "task": 186,
+  "arc_id": "794b24be",
+  "baseline_points": 20.37,
+  "baseline_cost": 103,
+  "headroom": 4.63,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_794b24be.py"
+ },
+ {
+  "task": 227,
+  "arc_id": "94f9d214",
+  "baseline_points": 20.39,
+  "baseline_cost": 100,
+  "headroom": 4.61,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_94f9d214.py"
+ },
+ {
+  "task": 314,
+  "arc_id": "cbded52d",
+  "baseline_points": 20.39,
+  "baseline_cost": 100,
+  "headroom": 4.61,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_cbded52d.py"
+ },
+ {
+  "task": 318,
+  "arc_id": "ce4f8723",
+  "baseline_points": 20.39,
+  "baseline_cost": 100,
+  "headroom": 4.61,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_ce4f8723.py"
+ },
+ {
+  "task": 380,
+  "arc_id": "ed36ccf7",
+  "baseline_points": 20.4,
+  "baseline_cost": 99,
+  "headroom": 4.6,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_ed36ccf7.py"
+ },
+ {
+  "task": 142,
+  "arc_id": "62c24649",
+  "baseline_points": 20.5,
+  "baseline_cost": 90,
+  "headroom": 4.5,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_62c24649.py"
+ },
+ {
+  "task": 152,
+  "arc_id": "67e8384a",
+  "baseline_points": 20.5,
+  "baseline_cost": 90,
+  "headroom": 4.5,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_67e8384a.py"
+ },
+ {
+  "task": 129,
+  "arc_id": "5582e5ca",
+  "baseline_points": 20.62,
+  "baseline_cost": 80,
+  "headroom": 4.38,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_5582e5ca.py"
+ },
+ {
+  "task": 292,
+  "arc_id": "ba26e723",
+  "baseline_points": 20.62,
+  "baseline_cost": 80,
+  "headroom": 4.38,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_ba26e723.py"
+ },
+ {
+  "task": 291,
+  "arc_id": "b9b7f026",
+  "baseline_points": 20.78,
+  "baseline_cost": 68,
+  "headroom": 4.22,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_b9b7f026.py"
+ },
+ {
+  "task": 103,
+  "arc_id": "44f52bb0",
+  "baseline_points": 20.91,
+  "baseline_cost": 60,
+  "headroom": 4.09,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_44f52bb0.py"
+ },
+ {
+  "task": 373,
+  "arc_id": "e9afcf9a",
+  "baseline_points": 20.91,
+  "baseline_cost": 60,
+  "headroom": 4.09,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_e9afcf9a.py"
+ },
+ {
+  "task": 399,
+  "arc_id": "ff28f65a",
+  "baseline_points": 20.91,
+  "baseline_cost": 60,
+  "headroom": 4.09,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_ff28f65a.py"
+ },
+ {
+  "task": 299,
+  "arc_id": "bdad9b1f",
+  "baseline_points": 21.09,
+  "baseline_cost": 50,
+  "headroom": 3.91,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_bdad9b1f.py"
+ },
+ {
+  "task": 73,
+  "arc_id": "3618c87e",
+  "baseline_points": 21.31,
+  "baseline_cost": 40,
+  "headroom": 3.69,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_3618c87e.py"
+ },
+ {
+  "task": 56,
+  "arc_id": "27a28665",
+  "baseline_points": 21.47,
+  "baseline_cost": 34,
+  "headroom": 3.53,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_27a28665.py"
+ },
+ {
+  "task": 53,
+  "arc_id": "25ff71a9",
+  "baseline_points": 21.6,
+  "baseline_cost": 30,
+  "headroom": 3.4,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_25ff71a9.py"
+ },
+ {
+  "task": 113,
+  "arc_id": "496994bd",
+  "baseline_points": 21.6,
+  "baseline_cost": 30,
+  "headroom": 3.4,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_496994bd.py"
+ },
+ {
+  "task": 116,
+  "arc_id": "4c4377d9",
+  "baseline_points": 21.6,
+  "baseline_cost": 30,
+  "headroom": 3.4,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_4c4377d9.py"
+ },
+ {
+  "task": 130,
+  "arc_id": "5614dbcf",
+  "baseline_points": 21.6,
+  "baseline_cost": 30,
+  "headroom": 3.4,
+  "dsl_ok": false,
+  "gen_src": "third_party/arc-gen/tasks/task_5614dbcf.py"
+ },
+ {
+  "task": 164,
+  "arc_id": "6d0aefbc",
+  "baseline_points": 21.6,
+  "baseline_cost": 30,
+  "headroom": 3.4,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_6d0aefbc.py"
+ },
+ {
+  "task": 172,
+  "arc_id": "6fa7a44f",
+  "baseline_points": 21.6,
+  "baseline_cost": 30,
+  "headroom": 3.4,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_6fa7a44f.py"
+ },
+ {
+  "task": 210,
+  "arc_id": "8be77c9e",
+  "baseline_points": 21.6,
+  "baseline_cost": 30,
+  "headroom": 3.4,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_8be77c9e.py"
+ },
+ {
+  "task": 311,
+  "arc_id": "c9e6f938",
+  "baseline_points": 21.6,
+  "baseline_cost": 30,
+  "headroom": 3.4,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_c9e6f938.py"
+ },
+ {
+  "task": 326,
+  "arc_id": "d10ecb37",
+  "baseline_points": 21.6,
+  "baseline_cost": 30,
+  "headroom": 3.4,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_d10ecb37.py"
+ },
+ {
+  "task": 385,
+  "arc_id": "f25ffba3",
+  "baseline_points": 21.6,
+  "baseline_cost": 30,
+  "headroom": 3.4,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_f25ffba3.py"
+ },
+ {
+  "task": 166,
+  "arc_id": "6d75e8bb",
+  "baseline_points": 21.82,
+  "baseline_cost": 24,
+  "headroom": 3.18,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_6d75e8bb.py"
+ },
+ {
+  "task": 312,
+  "arc_id": "c9f8e694",
+  "baseline_points": 22.0,
+  "baseline_cost": 20,
+  "headroom": 3.0,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_c9f8e694.py"
+ },
+ {
+  "task": 16,
+  "arc_id": "0d3d703e",
+  "baseline_points": 22.7,
+  "baseline_cost": 10,
+  "headroom": 2.3,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_0d3d703e.py"
+ },
+ {
+  "task": 276,
+  "arc_id": "b1948b0a",
+  "baseline_points": 22.7,
+  "baseline_cost": 10,
+  "headroom": 2.3,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_b1948b0a.py"
+ },
+ {
+  "task": 309,
+  "arc_id": "c8f0f002",
+  "baseline_points": 22.7,
+  "baseline_cost": 10,
+  "headroom": 2.3,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_c8f0f002.py"
+ },
+ {
+  "task": 337,
+  "arc_id": "d511f180",
+  "baseline_points": 22.7,
+  "baseline_cost": 10,
+  "headroom": 2.3,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_d511f180.py"
+ },
+ {
+  "task": 87,
+  "arc_id": "3c9b0459",
+  "baseline_points": 23.39,
+  "baseline_cost": 5,
+  "headroom": 1.61,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_3c9b0459.py"
+ },
+ {
+  "task": 140,
+  "arc_id": "6150a2bd",
+  "baseline_points": 23.39,
+  "baseline_cost": 5,
+  "headroom": 1.61,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_6150a2bd.py"
+ },
+ {
+  "task": 223,
+  "arc_id": "9172f3a0",
+  "baseline_points": 23.39,
+  "baseline_cost": 5,
+  "headroom": 1.61,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_9172f3a0.py"
+ },
+ {
+  "task": 307,
+  "arc_id": "c59eb873",
+  "baseline_points": 23.39,
+  "baseline_cost": 5,
+  "headroom": 1.61,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_c59eb873.py"
+ },
+ {
+  "task": 67,
+  "arc_id": "2dee498d",
+  "baseline_points": 25.0,
+  "baseline_cost": 0,
+  "headroom": 0.0,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_2dee498d.py"
+ },
+ {
+  "task": 179,
+  "arc_id": "74dd1130",
+  "baseline_points": 25.0,
+  "baseline_cost": 0,
+  "headroom": 0.0,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_74dd1130.py"
+ },
+ {
+  "task": 241,
+  "arc_id": "9dfd6313",
+  "baseline_points": 25.0,
+  "baseline_cost": 0,
+  "headroom": 0.0,
+  "dsl_ok": true,
+  "gen_src": "third_party/arc-gen/tasks/task_9dfd6313.py"
+ }
+]

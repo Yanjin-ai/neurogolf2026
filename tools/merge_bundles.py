@@ -44,13 +44,28 @@ def extract_all():
                             (dest / bn).write_bytes(zf.read(nm))
             except Exception as e:  # noqa: BLE001
                 print(f"  {bdir.name}: {e}")
+        # group loose task*.onnx by their parent dir so multi-version bundles
+        # (v1/task001.onnx, v2/task001.onnx, ...) contribute EVERY version
+        bydir = {}
         for o in bdir.rglob("task*.onnx"):
-            if not o.name.startswith("._") and not (dest / o.name).exists():
-                (dest / o.name).write_bytes(o.read_bytes())
-        n = len(list(dest.glob("task*.onnx")))
-        if n:
-            sources[bdir.name] = dest
-            print(f"  {bdir.name}: {n} nets")
+            if o.name.startswith("._"):
+                continue
+            bydir.setdefault(o.parent, []).append(o)
+        for k, (par, files) in enumerate(sorted(bydir.items())):
+            sub = dest if k == 0 else WORK / f"{bdir.name}__v{k}"
+            sub.mkdir(exist_ok=True)
+            for o in files:
+                if not (sub / o.name).exists():
+                    (sub / o.name).write_bytes(o.read_bytes())
+        for sub in [dest] + [WORK / f"{bdir.name}__v{k}"
+                             for k in range(1, len(bydir))]:
+            n = len(list(sub.glob("task*.onnx")))
+            if n:
+                sources[sub.name] = sub
+        total = sum(len(v) for v in bydir.values())
+        if total or (dest.exists() and list(dest.glob("task*.onnx"))):
+            print(f"  {bdir.name}: {len(list(dest.glob('task*.onnx')))} nets"
+                  f"{f' (+{len(bydir)-1} version dirs)' if len(bydir) > 1 else ''}")
     return sources
 
 
@@ -100,7 +115,7 @@ def main():
     print("phase 2: correctness verification (cheapest-first)...")
 
     def resolve(n):
-        for cost, path in ranked[n][:8]:  # cheapest 8 candidates max
+        for cost, path in ranked[n][:12]:  # cheapest 12 candidates max
             ok, real_cost = verify(path, n)
             if ok:
                 import math

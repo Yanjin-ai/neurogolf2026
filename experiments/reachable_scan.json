@@ -1,0 +1,3602 @@
+[
+ {
+  "task": 54,
+  "cost": 25144,
+  "float_frac": 0.19,
+  "has_10ch": true,
+  "n_big": 16,
+  "tech": "conv",
+  "opp": 47.4
+ },
+ {
+  "task": 233,
+  "cost": 31975,
+  "float_frac": 0.47,
+  "has_10ch": true,
+  "n_big": 10,
+  "tech": "conv",
+  "opp": 44.0
+ },
+ {
+  "task": 198,
+  "cost": 11410,
+  "float_frac": 0.55,
+  "has_10ch": true,
+  "n_big": 5,
+  "tech": "conv",
+  "opp": 41.0
+ },
+ {
+  "task": 285,
+  "cost": 18674,
+  "float_frac": 0.4,
+  "has_10ch": true,
+  "n_big": 7,
+  "tech": "conv",
+  "opp": 40.3
+ },
+ {
+  "task": 18,
+  "cost": 24360,
+  "float_frac": 0.33,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "conv",
+  "opp": 40.0
+ },
+ {
+  "task": 74,
+  "cost": 8394,
+  "float_frac": 0.56,
+  "has_10ch": true,
+  "n_big": 4,
+  "tech": "conv",
+  "opp": 39.9
+ },
+ {
+  "task": 173,
+  "cost": 13383,
+  "float_frac": 0.43,
+  "has_10ch": true,
+  "n_big": 7,
+  "tech": "conv",
+  "opp": 39.6
+ },
+ {
+  "task": 338,
+  "cost": 8848,
+  "float_frac": 0.52,
+  "has_10ch": true,
+  "n_big": 2,
+  "tech": "conv",
+  "opp": 39.4
+ },
+ {
+  "task": 145,
+  "cost": 12855,
+  "float_frac": 0.39,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "dense",
+  "opp": 38.6
+ },
+ {
+  "task": 101,
+  "cost": 12973,
+  "float_frac": 0.38,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "conv",
+  "opp": 38.5
+ },
+ {
+  "task": 366,
+  "cost": 30159,
+  "float_frac": 0.2,
+  "has_10ch": true,
+  "n_big": 3,
+  "tech": "conv",
+  "opp": 38.1
+ },
+ {
+  "task": 359,
+  "cost": 4284,
+  "float_frac": 0.62,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "dense",
+  "opp": 38.0
+ },
+ {
+  "task": 110,
+  "cost": 10327,
+  "float_frac": 0.36,
+  "has_10ch": true,
+  "n_big": 3,
+  "tech": "conv",
+  "opp": 37.1
+ },
+ {
+  "task": 42,
+  "cost": 3110,
+  "float_frac": 0.64,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "conv",
+  "opp": 36.9
+ },
+ {
+  "task": 219,
+  "cost": 8715,
+  "float_frac": 0.38,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "dense",
+  "opp": 36.8
+ },
+ {
+  "task": 76,
+  "cost": 12825,
+  "float_frac": 0.25,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "conv",
+  "opp": 35.9
+ },
+ {
+  "task": 96,
+  "cost": 7558,
+  "float_frac": 0.35,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "dense",
+  "opp": 35.7
+ },
+ {
+  "task": 383,
+  "cost": 5830,
+  "float_frac": 0.4,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "conv",
+  "opp": 35.6
+ },
+ {
+  "task": 138,
+  "cost": 12042,
+  "float_frac": 0.22,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "conv",
+  "opp": 35.2
+ },
+ {
+  "task": 350,
+  "cost": 9036,
+  "float_frac": 0.28,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "dense",
+  "opp": 35.1
+ },
+ {
+  "task": 368,
+  "cost": 3590,
+  "float_frac": 0.43,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "conv",
+  "opp": 34.0
+ },
+ {
+  "task": 364,
+  "cost": 14642,
+  "float_frac": 0.12,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "conv",
+  "opp": 34.0
+ },
+ {
+  "task": 192,
+  "cost": 5346,
+  "float_frac": 0.32,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "conv",
+  "opp": 33.8
+ },
+ {
+  "task": 361,
+  "cost": 4606,
+  "float_frac": 0.34,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "conv",
+  "opp": 33.7
+ },
+ {
+  "task": 162,
+  "cost": 3500,
+  "float_frac": 0.39,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "conv",
+  "opp": 33.3
+ },
+ {
+  "task": 148,
+  "cost": 4887,
+  "float_frac": 0.28,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "dense",
+  "opp": 32.8
+ },
+ {
+  "task": 265,
+  "cost": 4357,
+  "float_frac": 0.3,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "dense",
+  "opp": 32.7
+ },
+ {
+  "task": 29,
+  "cost": 5288,
+  "float_frac": 0.86,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "expert-einsum",
+  "opp": 32.0
+ },
+ {
+  "task": 157,
+  "cost": 6819,
+  "float_frac": 0.16,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "dense",
+  "opp": 31.9
+ },
+ {
+  "task": 4,
+  "cost": 4866,
+  "float_frac": 0.21,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "conv",
+  "opp": 31.7
+ },
+ {
+  "task": 50,
+  "cost": 3849,
+  "float_frac": 0.24,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "dense",
+  "opp": 31.1
+ },
+ {
+  "task": 93,
+  "cost": 3332,
+  "float_frac": 0.26,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "dense",
+  "opp": 31.0
+ },
+ {
+  "task": 89,
+  "cost": 6739,
+  "float_frac": 0.1,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "conv",
+  "opp": 30.9
+ },
+ {
+  "task": 17,
+  "cost": 6453,
+  "float_frac": 0.08,
+  "has_10ch": true,
+  "n_big": 3,
+  "tech": "dense",
+  "opp": 30.3
+ },
+ {
+  "task": 125,
+  "cost": 3463,
+  "float_frac": 0.2,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "dense",
+  "opp": 30.1
+ },
+ {
+  "task": 90,
+  "cost": 3053,
+  "float_frac": 0.2,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "dense",
+  "opp": 29.7
+ },
+ {
+  "task": 44,
+  "cost": 3212,
+  "float_frac": 0.15,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "conv",
+  "opp": 29.0
+ },
+ {
+  "task": 209,
+  "cost": 7775,
+  "float_frac": 0.61,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "expert-einsum",
+  "opp": 28.9
+ },
+ {
+  "task": 255,
+  "cost": 8911,
+  "float_frac": 0.58,
+  "has_10ch": true,
+  "n_big": 2,
+  "tech": "quantized",
+  "opp": 28.7
+ },
+ {
+  "task": 107,
+  "cost": 3576,
+  "float_frac": 0.08,
+  "has_10ch": true,
+  "n_big": 2,
+  "tech": "dense",
+  "opp": 28.3
+ },
+ {
+  "task": 133,
+  "cost": 21274,
+  "float_frac": 0.4,
+  "has_10ch": true,
+  "n_big": 12,
+  "tech": "quantized",
+  "opp": 27.9
+ },
+ {
+  "task": 25,
+  "cost": 10236,
+  "float_frac": 0.97,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 27.1
+ },
+ {
+  "task": 64,
+  "cost": 10445,
+  "float_frac": 0.44,
+  "has_10ch": true,
+  "n_big": 2,
+  "tech": "expert-einsum",
+  "opp": 26.7
+ },
+ {
+  "task": 80,
+  "cost": 9262,
+  "float_frac": 0.45,
+  "has_10ch": true,
+  "n_big": 3,
+  "tech": "quantized",
+  "opp": 26.5
+ },
+ {
+  "task": 379,
+  "cost": 7733,
+  "float_frac": 0.22,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "einsum",
+  "opp": 26.4
+ },
+ {
+  "task": 202,
+  "cost": 4481,
+  "float_frac": 0.29,
+  "has_10ch": true,
+  "n_big": 3,
+  "tech": "einsum",
+  "opp": 25.9
+ },
+ {
+  "task": 216,
+  "cost": 8415,
+  "float_frac": 0.38,
+  "has_10ch": true,
+  "n_big": 0,
+  "tech": "quantized",
+  "opp": 25.0
+ },
+ {
+  "task": 9,
+  "cost": 6694,
+  "float_frac": 0.4,
+  "has_10ch": true,
+  "n_big": 4,
+  "tech": "expert-einsum",
+  "opp": 24.7
+ },
+ {
+  "task": 349,
+  "cost": 14892,
+  "float_frac": 0.27,
+  "has_10ch": true,
+  "n_big": 8,
+  "tech": "quantized",
+  "opp": 24.4
+ },
+ {
+  "task": 92,
+  "cost": 6553,
+  "float_frac": 0.14,
+  "has_10ch": true,
+  "n_big": 3,
+  "tech": "einsum",
+  "opp": 24.4
+ },
+ {
+  "task": 66,
+  "cost": 10643,
+  "float_frac": 0.3,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "expert-einsum",
+  "opp": 24.1
+ },
+ {
+  "task": 382,
+  "cost": 5695,
+  "float_frac": 0.13,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "einsum",
+  "opp": 23.9
+ },
+ {
+  "task": 367,
+  "cost": 13926,
+  "float_frac": 0.23,
+  "has_10ch": true,
+  "n_big": 2,
+  "tech": "quantized",
+  "opp": 23.5
+ },
+ {
+  "task": 132,
+  "cost": 3637,
+  "float_frac": 0.19,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "einsum",
+  "opp": 23.5
+ },
+ {
+  "task": 14,
+  "cost": 4097,
+  "float_frac": 0.41,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "expert-einsum",
+  "opp": 23.5
+ },
+ {
+  "task": 208,
+  "cost": 4181,
+  "float_frac": 0.4,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "quantized",
+  "opp": 23.4
+ },
+ {
+  "task": 118,
+  "cost": 12282,
+  "float_frac": 0.23,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "quantized",
+  "opp": 23.2
+ },
+ {
+  "task": 165,
+  "cost": 4532,
+  "float_frac": 0.37,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "quantized",
+  "opp": 23.0
+ },
+ {
+  "task": 187,
+  "cost": 15790,
+  "float_frac": 0.18,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "bitpacked",
+  "opp": 22.8
+ },
+ {
+  "task": 191,
+  "cost": 11082,
+  "float_frac": 0.21,
+  "has_10ch": true,
+  "n_big": 2,
+  "tech": "quantized",
+  "opp": 22.6
+ },
+ {
+  "task": 158,
+  "cost": 26486,
+  "float_frac": 0.11,
+  "has_10ch": true,
+  "n_big": 6,
+  "tech": "quantized",
+  "opp": 22.5
+ },
+ {
+  "task": 182,
+  "cost": 6095,
+  "float_frac": 0.29,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "quantized",
+  "opp": 22.5
+ },
+ {
+  "task": 324,
+  "cost": 8639,
+  "float_frac": 0.23,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "quantized",
+  "opp": 22.4
+ },
+ {
+  "task": 340,
+  "cost": 3404,
+  "float_frac": 0.88,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 22.4
+ },
+ {
+  "task": 286,
+  "cost": 26909,
+  "float_frac": 0.1,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "bitpacked",
+  "opp": 22.4
+ },
+ {
+  "task": 137,
+  "cost": 3389,
+  "float_frac": 0.11,
+  "has_10ch": true,
+  "n_big": 3,
+  "tech": "einsum",
+  "opp": 22.2
+ },
+ {
+  "task": 363,
+  "cost": 4284,
+  "float_frac": 0.42,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 22.0
+ },
+ {
+  "task": 204,
+  "cost": 10232,
+  "float_frac": 0.19,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "quantized",
+  "opp": 21.9
+ },
+ {
+  "task": 5,
+  "cost": 6645,
+  "float_frac": 0.24,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "quantized",
+  "opp": 21.9
+ },
+ {
+  "task": 77,
+  "cost": 7657,
+  "float_frac": 0.22,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "quantized",
+  "opp": 21.8
+ },
+ {
+  "task": 278,
+  "cost": 4505,
+  "float_frac": 0.29,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "quantized",
+  "opp": 21.7
+ },
+ {
+  "task": 117,
+  "cost": 3795,
+  "float_frac": 0.25,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "quantized",
+  "opp": 20.6
+ },
+ {
+  "task": 279,
+  "cost": 5546,
+  "float_frac": 0.19,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "quantized",
+  "opp": 20.4
+ },
+ {
+  "task": 79,
+  "cost": 3114,
+  "float_frac": 0.37,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 20.4
+ },
+ {
+  "task": 196,
+  "cost": 4536,
+  "float_frac": 0.2,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "quantized",
+  "opp": 20.2
+ },
+ {
+  "task": 358,
+  "cost": 3798,
+  "float_frac": 0.21,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "expert-einsum",
+  "opp": 20.0
+ },
+ {
+  "task": 378,
+  "cost": 3091,
+  "float_frac": 0.23,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "expert-einsum",
+  "opp": 19.8
+ },
+ {
+  "task": 370,
+  "cost": 6598,
+  "float_frac": 0.12,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "quantized",
+  "opp": 19.7
+ },
+ {
+  "task": 86,
+  "cost": 3028,
+  "float_frac": 0.22,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "quantized",
+  "opp": 19.6
+ },
+ {
+  "task": 2,
+  "cost": 14285,
+  "float_frac": 0.02,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "bitpacked",
+  "opp": 19.5
+ },
+ {
+  "task": 387,
+  "cost": 4345,
+  "float_frac": 0.16,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "expert-einsum",
+  "opp": 19.5
+ },
+ {
+  "task": 23,
+  "cost": 8222,
+  "float_frac": 0.08,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "quantized",
+  "opp": 19.5
+ },
+ {
+  "task": 205,
+  "cost": 4891,
+  "float_frac": 0.89,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "expert-einsum",
+  "opp": 19.4
+ },
+ {
+  "task": 243,
+  "cost": 10710,
+  "float_frac": 0.04,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "bitpacked",
+  "opp": 19.2
+ },
+ {
+  "task": 310,
+  "cost": 3184,
+  "float_frac": 0.93,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "expert-einsum",
+  "opp": 19.1
+ },
+ {
+  "task": 174,
+  "cost": 4027,
+  "float_frac": 0.62,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 18.6
+ },
+ {
+  "task": 328,
+  "cost": 6304,
+  "float_frac": 0.05,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "expert-einsum",
+  "opp": 18.3
+ },
+ {
+  "task": 234,
+  "cost": 3498,
+  "float_frac": 0.84,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "expert-einsum",
+  "opp": 17.8
+ },
+ {
+  "task": 251,
+  "cost": 4516,
+  "float_frac": 0.13,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 17.4
+ },
+ {
+  "task": 377,
+  "cost": 4567,
+  "float_frac": 0.74,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "expert-einsum",
+  "opp": 16.8
+ },
+ {
+  "task": 277,
+  "cost": 3540,
+  "float_frac": 0.11,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 16.6
+ },
+ {
+  "task": 177,
+  "cost": 3249,
+  "float_frac": 0.76,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "expert-einsum",
+  "opp": 16.3
+ },
+ {
+  "task": 319,
+  "cost": 5833,
+  "float_frac": 0.68,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "expert-einsum",
+  "opp": 16.0
+ },
+ {
+  "task": 280,
+  "cost": 4591,
+  "float_frac": 0.42,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 15.4
+ },
+ {
+  "task": 131,
+  "cost": 3874,
+  "float_frac": 0.3,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 13.2
+ },
+ {
+  "task": 396,
+  "cost": 3561,
+  "float_frac": 0.49,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "quantized",
+  "opp": 12.0
+ },
+ {
+  "task": 365,
+  "cost": 3122,
+  "float_frac": 0.4,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "expert-einsum",
+  "opp": 10.4
+ },
+ {
+  "task": 201,
+  "cost": 3046,
+  "float_frac": 0.32,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "expert-einsum",
+  "opp": 9.1
+ },
+ {
+  "task": 284,
+  "cost": 3089,
+  "float_frac": 0.11,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "expert-einsum",
+  "opp": 5.8
+ },
+ {
+  "task": 400,
+  "cost": 1181,
+  "float_frac": 0.89,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 399,
+  "cost": 60,
+  "float_frac": 0.13,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 398,
+  "cost": 2197,
+  "float_frac": 0.14,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 397,
+  "cost": 2752,
+  "float_frac": 0.18,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 395,
+  "cost": 165,
+  "float_frac": 0.5,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 394,
+  "cost": 676,
+  "float_frac": 0.65,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "expert-einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 393,
+  "cost": 144,
+  "float_frac": 0.45,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 392,
+  "cost": 1941,
+  "float_frac": 0.11,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "expert-einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 391,
+  "cost": 159,
+  "float_frac": 0.44,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 390,
+  "cost": 2699,
+  "float_frac": 0.25,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 389,
+  "cost": 130,
+  "float_frac": 0.41,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 388,
+  "cost": 1829,
+  "float_frac": 0.13,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 386,
+  "cost": 211,
+  "float_frac": 0.53,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 385,
+  "cost": 30,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 384,
+  "cost": 481,
+  "float_frac": 0.55,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 381,
+  "cost": 1753,
+  "float_frac": 0.23,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 380,
+  "cost": 99,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 376,
+  "cost": 186,
+  "float_frac": 0.11,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 375,
+  "cost": 327,
+  "float_frac": 0.94,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 374,
+  "cost": 2217,
+  "float_frac": 0.2,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 373,
+  "cost": 60,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 372,
+  "cost": 710,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 371,
+  "cost": 467,
+  "float_frac": 0.02,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 369,
+  "cost": 1393,
+  "float_frac": 0.33,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "quantized",
+  "opp": 0.0
+ },
+ {
+  "task": 362,
+  "cost": 521,
+  "float_frac": 0.93,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 360,
+  "cost": 340,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 357,
+  "cost": 291,
+  "float_frac": 0.02,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 356,
+  "cost": 1319,
+  "float_frac": 0.31,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 355,
+  "cost": 539,
+  "float_frac": 0.89,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "expert-einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 354,
+  "cost": 2218,
+  "float_frac": 0.17,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 353,
+  "cost": 244,
+  "float_frac": 0.13,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 352,
+  "cost": 460,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 351,
+  "cost": 1229,
+  "float_frac": 0.95,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "expert-einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 348,
+  "cost": 1706,
+  "float_frac": 0.16,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "expert-einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 347,
+  "cost": 143,
+  "float_frac": 0.92,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 346,
+  "cost": 1254,
+  "float_frac": 0.6,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "quantized",
+  "opp": 0.0
+ },
+ {
+  "task": 345,
+  "cost": 1495,
+  "float_frac": 0.15,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 344,
+  "cost": 910,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 343,
+  "cost": 1539,
+  "float_frac": 0.09,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 342,
+  "cost": 1072,
+  "float_frac": 0.14,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "expert-einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 341,
+  "cost": 1427,
+  "float_frac": 0.24,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 339,
+  "cost": 140,
+  "float_frac": 1.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 337,
+  "cost": 10,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 336,
+  "cost": 1820,
+  "float_frac": 0.61,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 335,
+  "cost": 1380,
+  "float_frac": 0.46,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 334,
+  "cost": 194,
+  "float_frac": 0.22,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 333,
+  "cost": 2401,
+  "float_frac": 0.17,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 332,
+  "cost": 561,
+  "float_frac": 0.53,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "quantized",
+  "opp": 0.0
+ },
+ {
+  "task": 331,
+  "cost": 910,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 330,
+  "cost": 2825,
+  "float_frac": 0.15,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 329,
+  "cost": 1050,
+  "float_frac": 0.0,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 327,
+  "cost": 638,
+  "float_frac": 0.26,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 326,
+  "cost": 30,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 325,
+  "cost": 1483,
+  "float_frac": 0.07,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 323,
+  "cost": 1630,
+  "float_frac": 0.02,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "quantized",
+  "opp": 0.0
+ },
+ {
+  "task": 322,
+  "cost": 200,
+  "float_frac": 0.25,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 321,
+  "cost": 300,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 320,
+  "cost": 770,
+  "float_frac": 1.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 318,
+  "cost": 100,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 317,
+  "cost": 146,
+  "float_frac": 1.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 316,
+  "cost": 426,
+  "float_frac": 0.41,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 315,
+  "cost": 230,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 314,
+  "cost": 100,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 313,
+  "cost": 188,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 312,
+  "cost": 20,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 311,
+  "cost": 30,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 309,
+  "cost": 10,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 308,
+  "cost": 1468,
+  "float_frac": 0.38,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "expert-einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 307,
+  "cost": 5,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 306,
+  "cost": 300,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 305,
+  "cost": 636,
+  "float_frac": 0.14,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 304,
+  "cost": 1320,
+  "float_frac": 0.07,
+  "has_10ch": true,
+  "n_big": 0,
+  "tech": "expert-einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 303,
+  "cost": 1450,
+  "float_frac": 0.17,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "expert-einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 302,
+  "cost": 1774,
+  "float_frac": 0.47,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "quantized",
+  "opp": 0.0
+ },
+ {
+  "task": 301,
+  "cost": 1141,
+  "float_frac": 0.04,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 300,
+  "cost": 526,
+  "float_frac": 0.51,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 299,
+  "cost": 50,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 298,
+  "cost": 135,
+  "float_frac": 1.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 297,
+  "cost": 1389,
+  "float_frac": 0.18,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 296,
+  "cost": 314,
+  "float_frac": 0.31,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 295,
+  "cost": 1604,
+  "float_frac": 0.08,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 294,
+  "cost": 910,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 293,
+  "cost": 1043,
+  "float_frac": 0.31,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 292,
+  "cost": 80,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 291,
+  "cost": 66,
+  "float_frac": 1.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 290,
+  "cost": 355,
+  "float_frac": 0.85,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 289,
+  "cost": 742,
+  "float_frac": 0.85,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 288,
+  "cost": 958,
+  "float_frac": 0.06,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 287,
+  "cost": 910,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 283,
+  "cost": 642,
+  "float_frac": 0.8,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "quantized",
+  "opp": 0.0
+ },
+ {
+  "task": 282,
+  "cost": 446,
+  "float_frac": 0.48,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "quantized",
+  "opp": 0.0
+ },
+ {
+  "task": 281,
+  "cost": 1329,
+  "float_frac": 0.64,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 276,
+  "cost": 10,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 275,
+  "cost": 1356,
+  "float_frac": 0.84,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 274,
+  "cost": 175,
+  "float_frac": 0.22,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 273,
+  "cost": 2027,
+  "float_frac": 0.44,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 272,
+  "cost": 402,
+  "float_frac": 1.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 271,
+  "cost": 1187,
+  "float_frac": 0.73,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "quantized",
+  "opp": 0.0
+ },
+ {
+  "task": 270,
+  "cost": 2858,
+  "float_frac": 0.84,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 269,
+  "cost": 709,
+  "float_frac": 0.62,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 268,
+  "cost": 2993,
+  "float_frac": 0.33,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 267,
+  "cost": 758,
+  "float_frac": 0.19,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 266,
+  "cost": 311,
+  "float_frac": 1.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 264,
+  "cost": 2329,
+  "float_frac": 0.03,
+  "has_10ch": true,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 263,
+  "cost": 670,
+  "float_frac": 0.79,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 262,
+  "cost": 106,
+  "float_frac": 0.4,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 261,
+  "cost": 200,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 260,
+  "cost": 1573,
+  "float_frac": 0.17,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "expert-einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 259,
+  "cost": 892,
+  "float_frac": 0.69,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 258,
+  "cost": 160,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 257,
+  "cost": 400,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 256,
+  "cost": 2114,
+  "float_frac": 0.12,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 254,
+  "cost": 687,
+  "float_frac": 0.31,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 253,
+  "cost": 500,
+  "float_frac": 0.69,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 252,
+  "cost": 180,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 250,
+  "cost": 2123,
+  "float_frac": 0.48,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "expert-einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 249,
+  "cost": 261,
+  "float_frac": 0.02,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 248,
+  "cost": 151,
+  "float_frac": 0.03,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 247,
+  "cost": 461,
+  "float_frac": 0.22,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 246,
+  "cost": 2067,
+  "float_frac": 0.01,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 245,
+  "cost": 2625,
+  "float_frac": 0.48,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 244,
+  "cost": 1179,
+  "float_frac": 0.98,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 242,
+  "cost": 431,
+  "float_frac": 0.94,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 241,
+  "cost": 0,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 240,
+  "cost": 1475,
+  "float_frac": 0.2,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 239,
+  "cost": 947,
+  "float_frac": 0.07,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 238,
+  "cost": 1935,
+  "float_frac": 0.41,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "expert-einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 237,
+  "cost": 1836,
+  "float_frac": 0.2,
+  "has_10ch": true,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 236,
+  "cost": 126,
+  "float_frac": 0.67,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 235,
+  "cost": 129,
+  "float_frac": 0.25,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 232,
+  "cost": 1410,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 231,
+  "cost": 219,
+  "float_frac": 0.11,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 230,
+  "cost": 900,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 229,
+  "cost": 200,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 228,
+  "cost": 962,
+  "float_frac": 0.11,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "expert-einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 227,
+  "cost": 100,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 226,
+  "cost": 1534,
+  "float_frac": 0.05,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 225,
+  "cost": 1031,
+  "float_frac": 0.24,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 224,
+  "cost": 1886,
+  "float_frac": 0.25,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 223,
+  "cost": 5,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 222,
+  "cost": 2733,
+  "float_frac": 0.86,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "expert-einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 221,
+  "cost": 805,
+  "float_frac": 0.75,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 220,
+  "cost": 900,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 218,
+  "cost": 649,
+  "float_frac": 0.53,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 217,
+  "cost": 1470,
+  "float_frac": 0.28,
+  "has_10ch": true,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 215,
+  "cost": 629,
+  "float_frac": 0.48,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 214,
+  "cost": 525,
+  "float_frac": 0.09,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 213,
+  "cost": 1850,
+  "float_frac": 0.44,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 212,
+  "cost": 2249,
+  "float_frac": 0.41,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 211,
+  "cost": 270,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 210,
+  "cost": 30,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 207,
+  "cost": 236,
+  "float_frac": 0.62,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 206,
+  "cost": 1783,
+  "float_frac": 0.28,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "expert-einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 203,
+  "cost": 355,
+  "float_frac": 0.11,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 200,
+  "cost": 623,
+  "float_frac": 1.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 199,
+  "cost": 1823,
+  "float_frac": 0.02,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 197,
+  "cost": 1141,
+  "float_frac": 0.58,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 195,
+  "cost": 921,
+  "float_frac": 0.11,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 194,
+  "cost": 949,
+  "float_frac": 0.4,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 193,
+  "cost": 910,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 190,
+  "cost": 2427,
+  "float_frac": 0.22,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "quantized",
+  "opp": 0.0
+ },
+ {
+  "task": 189,
+  "cost": 892,
+  "float_frac": 0.37,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 188,
+  "cost": 764,
+  "float_frac": 0.98,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 186,
+  "cost": 103,
+  "float_frac": 0.55,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 185,
+  "cost": 1955,
+  "float_frac": 0.41,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 184,
+  "cost": 2039,
+  "float_frac": 0.81,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "quantized",
+  "opp": 0.0
+ },
+ {
+  "task": 183,
+  "cost": 1024,
+  "float_frac": 0.27,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 181,
+  "cost": 368,
+  "float_frac": 1.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 180,
+  "cost": 210,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 179,
+  "cost": 0,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 178,
+  "cost": 762,
+  "float_frac": 0.39,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 176,
+  "cost": 210,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 175,
+  "cost": 1255,
+  "float_frac": 0.52,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 172,
+  "cost": 30,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 171,
+  "cost": 435,
+  "float_frac": 1.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 170,
+  "cost": 2125,
+  "float_frac": 0.69,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "expert-einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 169,
+  "cost": 1670,
+  "float_frac": 0.27,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "quantized",
+  "opp": 0.0
+ },
+ {
+  "task": 168,
+  "cost": 2237,
+  "float_frac": 0.16,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "quantized",
+  "opp": 0.0
+ },
+ {
+  "task": 167,
+  "cost": 146,
+  "float_frac": 1.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 166,
+  "cost": 24,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 164,
+  "cost": 30,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 163,
+  "cost": 1791,
+  "float_frac": 0.22,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 161,
+  "cost": 1808,
+  "float_frac": 0.27,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "expert-einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 160,
+  "cost": 1334,
+  "float_frac": 0.34,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "quantized",
+  "opp": 0.0
+ },
+ {
+  "task": 159,
+  "cost": 1568,
+  "float_frac": 0.05,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 156,
+  "cost": 1562,
+  "float_frac": 0.3,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "quantized",
+  "opp": 0.0
+ },
+ {
+  "task": 155,
+  "cost": 138,
+  "float_frac": 0.03,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 154,
+  "cost": 2679,
+  "float_frac": 0.28,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 153,
+  "cost": 793,
+  "float_frac": 0.34,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "expert-einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 152,
+  "cost": 90,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 151,
+  "cost": 900,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 150,
+  "cost": 138,
+  "float_frac": 0.03,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 149,
+  "cost": 136,
+  "float_frac": 1.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 147,
+  "cost": 532,
+  "float_frac": 1.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 146,
+  "cost": 265,
+  "float_frac": 0.16,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 144,
+  "cost": 104,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 143,
+  "cost": 837,
+  "float_frac": 0.83,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 142,
+  "cost": 90,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 141,
+  "cost": 1383,
+  "float_frac": 0.05,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 140,
+  "cost": 5,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 139,
+  "cost": 904,
+  "float_frac": 0.42,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 136,
+  "cost": 1194,
+  "float_frac": 0.03,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 135,
+  "cost": 200,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 134,
+  "cost": 1529,
+  "float_frac": 0.7,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "expert-einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 130,
+  "cost": 30,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 129,
+  "cost": 80,
+  "float_frac": 1.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 128,
+  "cost": 136,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 127,
+  "cost": 396,
+  "float_frac": 1.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 126,
+  "cost": 605,
+  "float_frac": 0.62,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 124,
+  "cost": 1953,
+  "float_frac": 0.13,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 123,
+  "cost": 1342,
+  "float_frac": 0.55,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 122,
+  "cost": 810,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 121,
+  "cost": 326,
+  "float_frac": 0.32,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 120,
+  "cost": 910,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 119,
+  "cost": 1363,
+  "float_frac": 0.25,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 116,
+  "cost": 30,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 115,
+  "cost": 1014,
+  "float_frac": 0.34,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 114,
+  "cost": 900,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 113,
+  "cost": 30,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 112,
+  "cost": 1768,
+  "float_frac": 0.05,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 111,
+  "cost": 309,
+  "float_frac": 0.41,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 109,
+  "cost": 1645,
+  "float_frac": 0.13,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 108,
+  "cost": 300,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 106,
+  "cost": 626,
+  "float_frac": 0.4,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 105,
+  "cost": 2849,
+  "float_frac": 0.24,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 104,
+  "cost": 238,
+  "float_frac": 1.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 103,
+  "cost": 60,
+  "float_frac": 0.67,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 102,
+  "cost": 2527,
+  "float_frac": 0.24,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "quantized",
+  "opp": 0.0
+ },
+ {
+  "task": 100,
+  "cost": 359,
+  "float_frac": 0.82,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "expert-einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 99,
+  "cost": 1899,
+  "float_frac": 0.14,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 98,
+  "cost": 900,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 97,
+  "cost": 910,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 95,
+  "cost": 345,
+  "float_frac": 0.8,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 94,
+  "cost": 2677,
+  "float_frac": 0.29,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 91,
+  "cost": 2753,
+  "float_frac": 0.36,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "expert-einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 88,
+  "cost": 1872,
+  "float_frac": 0.31,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "expert-einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 87,
+  "cost": 5,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 85,
+  "cost": 2519,
+  "float_frac": 0.52,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 84,
+  "cost": 2038,
+  "float_frac": 0.52,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 83,
+  "cost": 210,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 82,
+  "cost": 190,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 81,
+  "cost": 464,
+  "float_frac": 0.5,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "quantized",
+  "opp": 0.0
+ },
+ {
+  "task": 78,
+  "cost": 1293,
+  "float_frac": 0.44,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 75,
+  "cost": 1487,
+  "float_frac": 0.05,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 73,
+  "cost": 40,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 72,
+  "cost": 421,
+  "float_frac": 0.62,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 71,
+  "cost": 2663,
+  "float_frac": 0.25,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 70,
+  "cost": 1682,
+  "float_frac": 1.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 69,
+  "cost": 2949,
+  "float_frac": 0.14,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "quantized",
+  "opp": 0.0
+ },
+ {
+  "task": 68,
+  "cost": 623,
+  "float_frac": 0.18,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 67,
+  "cost": 0,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 65,
+  "cost": 638,
+  "float_frac": 0.2,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 63,
+  "cost": 1706,
+  "float_frac": 0.39,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 62,
+  "cost": 2524,
+  "float_frac": 0.25,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 61,
+  "cost": 1668,
+  "float_frac": 0.02,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 60,
+  "cost": 1010,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 59,
+  "cost": 547,
+  "float_frac": 0.96,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 58,
+  "cost": 1033,
+  "float_frac": 0.02,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 57,
+  "cost": 668,
+  "float_frac": 0.41,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 56,
+  "cost": 34,
+  "float_frac": 0.59,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 55,
+  "cost": 1856,
+  "float_frac": 0.57,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 53,
+  "cost": 30,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 52,
+  "cost": 194,
+  "float_frac": 0.13,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 51,
+  "cost": 1744,
+  "float_frac": 0.22,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 49,
+  "cost": 345,
+  "float_frac": 0.62,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 48,
+  "cost": 803,
+  "float_frac": 0.25,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "bitpacked",
+  "opp": 0.0
+ },
+ {
+  "task": 47,
+  "cost": 862,
+  "float_frac": 0.38,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 46,
+  "cost": 2085,
+  "float_frac": 0.19,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 45,
+  "cost": 1673,
+  "float_frac": 1.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 43,
+  "cost": 793,
+  "float_frac": 1.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 41,
+  "cost": 1787,
+  "float_frac": 0.23,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 40,
+  "cost": 190,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 39,
+  "cost": 453,
+  "float_frac": 0.96,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 38,
+  "cost": 213,
+  "float_frac": 0.91,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 37,
+  "cost": 2465,
+  "float_frac": 0.25,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 36,
+  "cost": 1589,
+  "float_frac": 0.53,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "expert-einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 35,
+  "cost": 1905,
+  "float_frac": 0.09,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 34,
+  "cost": 2261,
+  "float_frac": 0.22,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "quantized",
+  "opp": 0.0
+ },
+ {
+  "task": 33,
+  "cost": 1639,
+  "float_frac": 0.23,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 32,
+  "cost": 910,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 31,
+  "cost": 391,
+  "float_frac": 0.26,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 30,
+  "cost": 1803,
+  "float_frac": 0.29,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 28,
+  "cost": 168,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 27,
+  "cost": 1308,
+  "float_frac": 0.33,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 26,
+  "cost": 200,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 24,
+  "cost": 110,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 22,
+  "cost": 900,
+  "float_frac": 0.44,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 21,
+  "cost": 324,
+  "float_frac": 0.77,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 20,
+  "cost": 1256,
+  "float_frac": 0.44,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 19,
+  "cost": 2503,
+  "float_frac": 0.1,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "quantized",
+  "opp": 0.0
+ },
+ {
+  "task": 16,
+  "cost": 10,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 15,
+  "cost": 900,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ },
+ {
+  "task": 13,
+  "cost": 1424,
+  "float_frac": 0.29,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "expert-einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 12,
+  "cost": 2251,
+  "float_frac": 0.15,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "expert-einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 11,
+  "cost": 318,
+  "float_frac": 1.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 10,
+  "cost": 1002,
+  "float_frac": 0.29,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 8,
+  "cost": 2743,
+  "float_frac": 0.16,
+  "has_10ch": true,
+  "n_big": 1,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 7,
+  "cost": 127,
+  "float_frac": 0.0,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "einsum",
+  "opp": 0.0
+ },
+ {
+  "task": 6,
+  "cost": 153,
+  "float_frac": 0.57,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 3,
+  "cost": 260,
+  "float_frac": 0.32,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "dense",
+  "opp": 0.0
+ },
+ {
+  "task": 1,
+  "cost": 286,
+  "float_frac": 0.97,
+  "has_10ch": false,
+  "n_big": 0,
+  "tech": "conv",
+  "opp": 0.0
+ }
+]
